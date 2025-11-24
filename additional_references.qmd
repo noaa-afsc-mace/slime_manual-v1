@@ -1,0 +1,77 @@
+## Volunteer Glossary {#volun-glossary}
+Glossary of Roles and Terms Relevant to MACE surveys aboard NOAA Ships
+A non-exhaustive list of people, places and things relevant to surveys on the NOAA ship Oscar Dyson.
+
+### People
+
+**NOAA Corps**- Commissioned Officer Corps, one of eight federal uniformed services of the United States, and operates under the National Oceanic and Atmospheric Administration. Always dressed in navy blue when at sea. Serve ~2 year billets alternately at sea or land based assignments.
+* **CO**- Commanding Officer, captain of the ship and person responsible for all matters pertaining to safety, management, operations, and physical condition of the ship and makes the final call on all decisions affecting the ship and crew
+* **XO**- Executive Officer, second in command after the CO. Responsible for resource management by overseeing ship personnel, materials, and budget.
+* **Ops**- Operations Officer, Serves as liaison between science party and CO and thus serves as the primary point of contact between the science party and ship, coordinates day to day operations between the science party and ship.
+* **Nav**- Navigations Officer, in charge of safe navigation and completion of appropriate route planning
+* **Ensign**- Junior officer,  relatively new to the ship and has limited survey experience
+* **MPIC**- Medical Person In Charge, a member of the NOAA corps with extra medical training who can provide seasickness meds and who can consult a physician on call to provide other medication if needed. 
+* **OOD**- Officer on Duty/Deck, an Officer who is in charge of the ship for the day or watch
+
+**Civilian crew** - non-commissioned civilian crew members that are either “permanently” assigned to the ship or are in the augment (rotational) pool for NOAA ships
+* **Chief Stew(ard)**- Head cook, Prepares menu and meals and ensures provisions are secured for surveys. Stationed in the galley, good person to know and be in good rapport with! Oversees the Steward or 2nd Cook.
+* **2nd Cook** - Assists Chief Steward!
+* **Chief Engineer** - Lead engineer, in charge of all the moving parts of the ship that aren’t nets. Oversees the 1st Engineer, 2nd Engineer, 3rd Engineer, and General Vessel Assistant (GVA, or “Wiper”).
+* **Chief ET** - Ship’s electronics technician responsible for keeping all the ship’s computers and electronic equipment functioning. The person that connects personal devices to the ship's Wi-Fi and keeps us connected to the rest of the world when at sea.
+* **Chief Boatswain (Bo’sun)**- In charge of fishing and deck operations including any over the side activities (CTD’s, small boat deployments and usage, mooring deployments, etc.), almost always leads fishing operations during the day. With Lead Fishermen, oversees the Deck Crew.
+* **Lead Fisherman** - Leads fishing ops during the 2nd shift, second in charge of deck operations after the Bo’sun, not the same person as the Chief Bo’sun! With the Chief Bo’sun, oversees the Deck Crew.
+Senior Survey Tech- Maintains the scientific seawater sampling system and other tools used during fishing operations. Survey techs also help during trawling and over the side operations. In charge of verifying cleanliness of wet lab at end of survey. Oversees the Survey Tech.
+
+**Science crew** - civilian NOAA employees (primarily) in charge of the scientific operations 
+* **Chief Scientist (CS) or Field Party Chief (FPC)** - Science leader, in charge of science decision-making during this survey.
+* **Night cave** - Science lead from 4pm to 4am, makes fishing and survey-related choices and assists the FPC. 
+* **Wet lab leads** - Day and night wet lab leads are in charge of fish processing and setting up the camtrawl and the SBE prior to trawling. They’re situated in the chem lab when not processing fish in the wet lab. 
+* **ET/IT** - MACE’s electronics and software tech. Troubleshoots problems with the echosounder, CLAMs, and MACE’s analysis software.
+
+
+### Specific places
+* **Flying Bridge**- Located outside, atop the bridge. Many of the officers want people to ask permission to spend time up here. Even if they don’t, it’s a good idea to tell someone you’re going up. 
+Bridge- This is the uppermost interior deck, immediately below the flying bridge. This is the place where the ship’s navigation, steering, and trawling operations take place. Nobody calls the bridge the 03 deck, even though that seems like it makes sense. You are welcome to visit the Bridge, except when the ship is leaving the dock or docking, or if you are asked to leave.
+* **02 (oh-two) deck**- The deck where the CO, XO, some of the other officers, and the Chief Scientist have their staterooms. Also where the hospital and XO’s office are located. Up one ladder (stairs on ships are called ladders!) from the 01 deck. 
+* **01 (oh-one) deck**- The deck where the science staterooms and the lounge are.
+* **Main deck**- Where the Fish Lab, Chem Lab, and Acoustics Lab (or “Cave”) are located. This could be called the 1 deck. 
+* **Mess Deck**- This is where the crew eat, not to be confused with…
+* **Galley**- This is where the stewards do the cooking.
+* **Fish Lab- Aka wet lab**- location where we in MACE process the catch
+* **Chem Lab** - Adjacent to the fish lab, has two MACE computers set up, chemicals are stored there and there’s a hood in there also.
+* **Cave- Aka the Acoustics Lab**- this is where the MACE science team monitors the acoustics and makes decisions about trawling. We also work with the incoming data from here. It’s where you’ll find the Chief Scientist, Night Cave, and ET/IT unless they are fishing, eating, or sleeping. 
+* **Hero Deck aka Side Sampling Station or Ops Deck**- located outside on the starboard side of the Chem Lab, this is where “side ops” are done. When we lower something that isn’t a trawl over the side of the ship, it goes in the water here. 
+2 deck- The deck below the main deck where crew staterooms, laundry,  the gyms, and the engine room are all located.
+* **Forward gym**- small gym where treadmill, some weights, and rowing machine are located.
+* **Aft gym- aka iron gym**- shares space with the wire room where the huge winches that operate the trawls are located. This gym has more weights, and it is very loud down there while fishing operations are happening.
+* **Laundry room**- located down the ladderwell just forward of the starboard forward hatch in the mess deck. 
+
+### General places
+* **Trawl alley and trawl ramp**- At the back (aft) of the ship, where the trawl is deployed.
+* **Ladderway**- Stairs on a ship.
+* **Passageway**- Hallway on a ship.
+* **Gangway**- Mobile bridge used to embark and debark the vessel.
+* **Head**- bathroom on a ship.
+* **Weather deck/decks** - Decks that are open to weather, often secured during heavy seas/heavy freezing spray/other extreme weather conditions. 
+* **Port/Starboard** - Port is the left side when you’re facing the bow (the pointy end in front) of the ship, and starboard is the right side. These terms help mariners avoid confusion about left & right, because they remain fixed regardless of which way the mariner faces. 
+* **Stern**- Back end of a ship. 
+
+
+### Things you might hear (and what they mean)
+* **“All stations”**- An announcement that pertains to everyone- listen up!
+* **“Secure the laundry”**- Don’t use the laundry. 
+* **“Secure the water”** - You probably get this by now.
+* **“Stand-by”**- Wait. Something might be happening. 
+* **“This is a drill, this is a drill”** - Clearly, this is a drill, but what kind of drill?!? If you listen(ed) during the welcome aboard briefing, you’ll know that there are three kinds of drills; Ffire, Spill, MOB, Abandon Ship. 
+* **“Dog all doors/dogs”**- This is referring to the metal latches on the inside of the doors that lead out to weather decks. They keep the doors closed and make it so the watertight seals function. Sadly, there are no actual dogs aboard ship.
+
+### Gear
+* **SBE- aka “pipe bomb”**- Sea Bird Electronics instrument used to measure the pressure/temp/salinity/depth that we place on the head rope of trawl nets. Yes, it’s a terrible nickname.
+* **CTD**- Conductivity, Temperature, Depth instrument that’s deployed from the Hero Deck. Sometimes referred to as the CTD rosette.
+* **LFS-trawl/net**-  This is the main midwater fishing net that MACE uses to sample the fish population, it works in tandem with the…
+* **PNE** - “Poly Nor’Eastern” net used for fishing on bottom. Is smaller than the midwater net and has roller gear on the footrope.
+* **83-112**- A second kind of bottom- trawl net with roller gear.
+Methot- Square-frame net designed to sample krill and other large zooplankton. Deployed via the trawl ramp but uses a different winch. 
+* **Centerboard**- Extends 
+* **Transducers aka ‘ducers or echosounders**- 18, 38, 70, 120, 200, and 330 kHz acoustic transducers that are mounted on the bottom of the ship’s centerboard and send active sound waves (pings) towards the bottom of the ocean.
+* **Camtrawl**- the camera system that we attach to the LFS trawl. It is a stereo camera, which means we can get fish lengths from it. It also lets us know where fish are in the water column.

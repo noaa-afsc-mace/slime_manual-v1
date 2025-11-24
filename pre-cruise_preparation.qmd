@@ -1,0 +1,27 @@
+# Pre-Cruise Preparation
+
+Tasks related to the slime lab that should be completed before boarding the ship.
+
+## A. Equipment Checklist
+
+Gear Inventory (MACE loading and shipping) is a rolling spreadsheet maintained through Google Sheets to track and inventory gear shipped to and from Alaska. [Click here to open Google Sheet]({{< meta params.gear_url >}}){target="_blank"}
+
+
+
+## B. Special Study Supplies
+
+Pre-cruise preparation includes soliciting Special Studies requests for all surveys during the upcoming year. In November, the MACE Special Collections Request form is emailed to contacts on the special_studies_announcement_list which is found in the G:\special studies folder under the last survey year. The announcement list is a living document in which new contacts are added and old or invalid email addresses are deleted.
+
+After they are received, Special Study requests are put in a subfolder in G:\special studies by year, then by either Winter or Summer. Information should include 1). project goals with some background information, 2) specific sampling instructions/procedures which include a) storage requirements, b) time and space requirements, and c)specific details of any activities that may impact vessel/MACE personnel or equipment. 3) When and how supplies, chemicals, and samples will be shipped to and from the vessel, and 4) a chemical inventory.    
+
+## C. Sampling Requirements
+
+Obtain information on sampling requirements from stock assessment authors. Use this to create 'Table Tips'.
+
+## D. Equipment Calibration
+
+Does it make sense to provide a quick run down of per-cruise calibrations. i.e. scales, lenghts boards, SBEs, ect?
+
+## E. Age and Growth Supplies
+
+Does organizing the age and growth supplies fall under this manual?

@@ -1,0 +1,55 @@
+# Pre-Survey Preparation
+
+Tasks to be undertaken prior to leaving the dock. Depending on the survey some of these tasks may be completed during gear trials.
+
+## A. Fish Lab
+
+### Equipment
+If not installed already, under the direction of MACE IT unpack and connect the [length boards](#length-boards) and [Marel scales](#marel-scales) (specimen and basket scales) at the sampling stations and test the equipment with CLAMS.
+
+While not being used, store and secure the [load cells](#load-cells) in a dry yet accessible location like the ready room. Charge and store the load cell batteries inside the Chem lab. 
+
+During Gear Trials, set up the battery charger in the chem lab and test both CamTrawl units by deploying them separately on a trawl and downloading them. For information on CamTrawl setup, download, and battery charging go to the “BOC Associated Documents” folder.
+
+During Gear Trials, do an in-water deployment test with SBE temperature/pressure data recorder (hereafter, “SBE”) attached to net kites, the CamTrawl, and/or survey’s CTD. (see section IV.A. - SBE 39 Temperature/Pressure data recorder instructions).
+
+The SBE 39 plus manual is located in the “BOC Associated Documents” folder. ( I can not find this)
+
+After you’ve set up the fish lab (generally, during gear trials or at the start of the summer survey), test out all the scales, length boards, and CLAMS stations. The safest way to do this is to confirm with MACE IT that the CLAMS active survey is ‘SS Fake Ship’- this ensures that test data doesn’t contaminate real survey data. Check with the IT staff to set this up. Once you have set the CLAMS survey to SS Fake Ship, go through a simulated haul in the fish lab (see details on standard haul processing tasks below) remember to check all protocols are correct for this survey including any additional protocol needs from Special Studies (fin clips, stomachs etc.). 
+
+
+### Cheat Sheets
+* Post Table Tips in the fish lab on inboard wall near work station 1.
+* Post Special Studies summaries and specific instructions and prepare any necessary. 
+* Post the large MACE ID poster on the wall nearest the ready room. 
+* Post maturity code descriptions on wall near CLAMS station 4.
+
+### Other Gear
+* Set out and arrange fish lab gloves, nitrile gloves, work gloves, and staff raingear in the ready room area.
+* Set out otolith vials/caps, scalpels, tweezers, knives, pencils in a tub next to sink in fish lab.
+* Prepare oto juice - (instructions??)
+
+## B. Chem Lab
+* Set out essential waterproof identification books and laminated id cheat sheets (e.g. myctophid and jellyfish) in a location in the chem lab that is easily accessible.
+* Unpack totes of office supplies and excess fish lab sampling tools into drawers. Organize and label drawers by supply type for ease of access (e.g. Office Supplies, Fish Lab, Bags, Tapes and Bungees etc.). 
+
+## C. Otoliths
+Prepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes. Labeled vials are arranged Left to Right, Top to Bottom (No Zigzag) in Styrofoam trays. Write the cruise info using permanent marker on the otolith boxes: (i.e. - DY2401 where DY = ship name Dyson, 24 = last 2 digits of year, 01 = cruise #), vial barcode # range, and the species collected.
+
+
+
+
+## Length Boards {#length-boards}
+If lengths are not measuring correctly you may need to re-calibrate the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration):
+* Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
+* The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
+* The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
+
+## Weighing Scales {#marel-scales}
+Locate the scale calibration weight sets in the Chem lab floor cabinet aft of the computers and complete a full calibration test. 
+
+See section II – “Scale Calibration Marel M1100” for full calibration procedures. The full calibration test is separate from the scale calibration that should be done at the start of each haul (see below). The test weights for the full calibration should remain stored in a dry secure location after use. The full scale calibration results should be documented in on the full scale calibration test sheet which is found in the current year’s MACE loading and shipping google sheet. Copy and paste the link below in a browser or ask MACE staff to share access to the latest gear inventory link (Permission may be required to access).
+
+
+## Load Cells {#load-cells}
+Compare the crane scale readouts to the load cell weights. Have both cranes (starboard and port) lift an object on the back deck. This could be a codend or any gear. The weight read out will display in the wet lab by clams station 1 and on the crane. Attach the loadcell and weigh the same object, compare for accuracy. If the crane weights are not similar to the loadcell do not use the crane readouts for fishing operations. See section Splitter Bin Vs. Sorting Table? for safely using the loadcell during fishing operations.

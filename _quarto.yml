@@ -1,0 +1,31 @@
+project:
+  type: book
+  
+params:
+  gear_url: "https://docs.google.com/spreadsheets/d/12_39Ke-rfvQZLH6ZlejbbX5bNRX2fFNvNkkVWe21Hp8/edit?gid=1672489246#gid=1672489246" 
+
+book:
+  title: "Slime Lab Manual"
+  author: "David Bryan"
+  date: "11/20/2025"
+  chapters:
+    - index.qmd
+    - pre-cruise_preparation.qmd
+    - pre-survey_preparation.qmd
+    - pre-haul_preparation.qmd
+    - sampling_procedures.qmd
+    - physical_data.qmd
+    - data_verification_clams.qmd
+    - additional_references.qmd
+
+
+
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+    number-sections: false
