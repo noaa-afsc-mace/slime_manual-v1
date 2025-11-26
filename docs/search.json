@@ -1,0 +1,222 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Slime Lab Manual",
+    "section": "",
+    "text": "Glossary of Terms\nHere is a glossary of roles and terms relevant to MACE surveys aboard NOAA Ships. This is helpful to anybody new to the NOAA ship Oscar Dyson.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to the Slime Lab</span>"
+    ]
+  },
+  {
+    "objectID": "pre-cruise_preparation.html",
+    "href": "pre-cruise_preparation.html",
+    "title": "Pre-Cruise Preparation",
+    "section": "",
+    "text": "A. Equipment Checklist\nGear Inventory (MACE loading and shipping) is a rolling spreadsheet maintained through Google Sheets to track and inventory gear shipped to and from Alaska. Click here to open the Google Sheet",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pre-Cruise Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-cruise_preparation.html#b.-special-study-supplies",
+    "href": "pre-cruise_preparation.html#b.-special-study-supplies",
+    "title": "Pre-Cruise Preparation",
+    "section": "B. Special Study Supplies",
+    "text": "B. Special Study Supplies\nPre-cruise preparation includes soliciting Special Studies requests for all surveys during the upcoming year. In November, the MACE Special Collections Request form is emailed to contacts on the special_studies_announcement_list which is found in the G:\\special studies folder under the last survey year. The announcement list is a living document in which new contacts are added and old or invalid email addresses are deleted.\nAfter they are received, Special Study requests are put in a subfolder in G:\\special studies by year, then by either Winter or Summer. Information should include: 1. Project goals with some background information. 2. Specific sampling instructions/procedures which include: * storage requirements. * time and space requirements. * specific details of any activities that may impact vessel/MACE personnel or equipment. 3. When and how supplies, chemicals, and samples will be shipped to and from the vessel. 4. A chemical inventory.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pre-Cruise Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-cruise_preparation.html#c.-sampling-requirements",
+    "href": "pre-cruise_preparation.html#c.-sampling-requirements",
+    "title": "Pre-Cruise Preparation",
+    "section": "C. Sampling Requirements",
+    "text": "C. Sampling Requirements\nObtain information on sampling requirements from stock assessment authors. Use this to create ‘Table Tips’.\n\n\n\n\n\n\n📝 Draft Question: Equipment Calibration\n\n\n\nDoes it make sense to provide a quick run down of per-cruise calibrations here (i.e. scales, length boards, SBEs)?\n\n\n\n\n\n\n\n\n📝 Draft Question: Age and Growth\n\n\n\nDoes organizing the age and growth supplies fall under this manual?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Pre-Cruise Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html",
+    "href": "pre-survey_preparation.html",
+    "title": "Pre-Survey Preparation",
+    "section": "",
+    "text": "A. Fish Lab",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#a.-fish-lab",
+    "href": "pre-survey_preparation.html#a.-fish-lab",
+    "title": "Pre-Survey Preparation",
+    "section": "",
+    "text": "Equipment\nIf not installed already, under the direction of MACE IT unpack and connect the length boards and Marel scales (specimen and basket scales) at the sampling stations and test the equipment with CLAMS.\nWhile not being used, store and secure the load cells in a dry yet accessible location like the ready room. Charge and store the load cell batteries inside the Chem lab.\nDuring Gear Trials, set up the battery charger in the chem lab and test both CamTrawl units by deploying them separately on a trawl and downloading them. For information on CamTrawl setup, download, and battery charging go to the “BOC Associated Documents” folder.\nDuring Gear Trials, do an in-water deployment test with SBE temperature/pressure data recorder (hereafter, “SBE”) attached to net kites, the CamTrawl, and/or survey’s CTD. (see section IV.A. - SBE 39 Temperature/Pressure data recorder instructions).\nThe SBE 39 plus manual is located in the “BOC Associated Documents” folder. ( I can not find this)\nAfter you’ve set up the fish lab (generally, during gear trials or at the start of the summer survey), test out all the scales, length boards, and CLAMS stations. The safest way to do this is to confirm with MACE IT that the CLAMS active survey is ‘SS Fake Ship’- this ensures that test data doesn’t contaminate real survey data. Check with the IT staff to set this up. Once you have set the CLAMS survey to SS Fake Ship, go through a simulated haul in the fish lab (see details on standard haul processing tasks below) remember to check all protocols are correct for this survey including any additional protocol needs from Special Studies (fin clips, stomachs etc.).\n\n\nCheat Sheets\n\nPost Table Tips in the fish lab on inboard wall near work station 1.\nPost Special Studies summaries and specific instructions and prepare any necessary.\nPost the large MACE ID poster on the wall nearest the ready room.\nPost maturity code descriptions on wall near CLAMS station 4.\n\n\n\nOther Gear\n\nSet out and arrange fish lab gloves, nitrile gloves, work gloves, and staff raingear in the ready room area.\nSet out otolith vials/caps, scalpels, tweezers, knives, pencils in a tub next to sink in fish lab.\nPrepare oto juice - (instructions??)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#b.-chem-lab",
+    "href": "pre-survey_preparation.html#b.-chem-lab",
+    "title": "Pre-Survey Preparation",
+    "section": "B. Chem Lab",
+    "text": "B. Chem Lab\n\nSet out essential waterproof identification books and laminated id cheat sheets (e.g. myctophid and jellyfish) in a location in the chem lab that is easily accessible.\nUnpack totes of office supplies and excess fish lab sampling tools into drawers. Organize and label drawers by supply type for ease of access (e.g. Office Supplies, Fish Lab, Bags, Tapes and Bungees etc.).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#c.-otoliths",
+    "href": "pre-survey_preparation.html#c.-otoliths",
+    "title": "Pre-Survey Preparation",
+    "section": "C. Otoliths",
+    "text": "C. Otoliths\nPrepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes. Labeled vials are arranged Left to Right, Top to Bottom (No Zigzag) in Styrofoam trays. Write the cruise info using permanent marker on the otolith boxes: (i.e. - DY2401 where DY = ship name Dyson, 24 = last 2 digits of year, 01 = cruise #), vial barcode # range, and the species collected.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#length-boards",
+    "href": "pre-survey_preparation.html#length-boards",
+    "title": "Pre-Survey Preparation",
+    "section": "Length Boards",
+    "text": "Length Boards\nIf lengths are not measuring correctly you may need to re-calibrate the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration): * Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode. * The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). * The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#marel-scales",
+    "href": "pre-survey_preparation.html#marel-scales",
+    "title": "Pre-Survey Preparation",
+    "section": "Weighing Scales",
+    "text": "Weighing Scales\nLocate the scale calibration weight sets in the Chem lab floor cabinet aft of the computers and complete a full calibration test.\nSee section II – “Scale Calibration Marel M1100” for full calibration procedures. The full calibration test is separate from the scale calibration that should be done at the start of each haul (see below). The test weights for the full calibration should remain stored in a dry secure location after use. The full scale calibration results should be documented in on the full scale calibration test sheet which is found in the current year’s MACE loading and shipping google sheet. Copy and paste the link below in a browser or ask MACE staff to share access to the latest gear inventory link (Permission may be required to access).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-survey_preparation.html#load-cells",
+    "href": "pre-survey_preparation.html#load-cells",
+    "title": "Pre-Survey Preparation",
+    "section": "Load Cells",
+    "text": "Load Cells\nCompare the crane scale readouts to the load cell weights. Have both cranes (starboard and port) lift an object on the back deck. This could be a codend or any gear. The weight read out will display in the wet lab by clams station 1 and on the crane. Attach the loadcell and weigh the same object, compare for accuracy. If the crane weights are not similar to the loadcell do not use the crane readouts for fishing operations. See section Splitter Bin Vs. Sorting Table? for safely using the loadcell during fishing operations.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pre-Survey Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-haul_preparation.html",
+    "href": "pre-haul_preparation.html",
+    "title": "Pre-Haul Preparation",
+    "section": "",
+    "text": "SBE\nWhen “Fishing, Fishing, Fishing” has been called and/or the net is being setup on deck, initiate the SBE at least 15 minutes prior to fishing (see section IV.A. - SBE 39 Temperature/Pressure data recorder instructions). Your presence may be requested on the bridge for the 15 minute whale watch, so do this before you head up to the bridge.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-Haul Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-haul_preparation.html#camtrawl",
+    "href": "pre-haul_preparation.html#camtrawl",
+    "title": "Pre-Haul Preparation",
+    "section": "CamTrawl",
+    "text": "CamTrawl\nEnsure a charged CamTrawl battery is placed in the CamTrawl, connected, closed, and secured with “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net The deck crew is responsible for securing the CamTrawl to the net. See G:\\Book of the CAVE and SOPs\\BOC\\BOC Associated Documents\\CamTrawl for the latest CamTrawl quick guide.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-Haul Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-haul_preparation.html#marel-scales",
+    "href": "pre-haul_preparation.html#marel-scales",
+    "title": "Pre-Haul Preparation",
+    "section": "Marel Scales",
+    "text": "Marel Scales\nThe large basket scale (at the end of the conveyor belt) and the smaller specimen scales (on the counters) require calibration before each haul is processed - use the stainless steel 20 kg (large scale) and 2 kg (small scale) weights provided for this purpose for each scale respectively. Remove all objects from scale and dump any water collected on top the 20 kg weight.\nMarel M1100 Calibration:\n\nSimultaneously press the MENU and ZERO keys:\n\n\nWait until the scale asks for a reference weight – May take 15 seconds. “Put 20” or “Put 2” will display.\n\n\nPlace the reference weight (i.e. 20 or 2 kg weight) on the platform then press the PRINT key:\n\n\nThe message “===” appears on the display while the calibration takes place.\nWhen the calibration is complete, the message “Fit nn” appears.\nValues above 25 indicate a poor calibration; repeat calibration if needed.\n\nNotes:\n\nWhile using the scale, Grade should be selected not Packing. Use the up or down arrow to change. The scale will not input weight into Clams when in Packing mode.\nPlace an empty basket or tub on the scale and press “Tare”. You are ready to weigh baskets!\nIf the scale is not steady and it has become more difficult to collect weights it may be necessary to recalibrate scales particularly if weather changes or the ride of the ship changes between the initial calibration and getting back on transect.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-Haul Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-haul_preparation.html#other-items",
+    "href": "pre-haul_preparation.html#other-items",
+    "title": "Pre-Haul Preparation",
+    "section": "Other Items",
+    "text": "Other Items\nReplace and refill standard sampling supplies such as scalpel blades, the glycerol thymol squeeze bottle, vials caps, and the otolith vials trays as needed.\nDetermine if special study requests are applicable for the region and haul type and prepare for sampling if necessary (i.e., set up supplies, prepare labels, ovary bags, storage bags).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-Haul Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "pre-haul_preparation.html#protected-species-watch-aka-whale-watch",
+    "href": "pre-haul_preparation.html#protected-species-watch-aka-whale-watch",
+    "title": "Pre-Haul Preparation",
+    "section": "Protected Species Watch (AKA Whale Watch)",
+    "text": "Protected Species Watch (AKA Whale Watch)\nCheck in the with FPC or Cave Lead to determine if you are requested to complete a whale watch on the bridge 15 minutes prior to the net entering the water. Updated protocols for protected species observation and avoidance measures is located in the “BOC Associated Documents” folder or the current cruise folder. For 2025, look for the document titled “MACE protected species at-sea procs_FY25_v11.docx”. When beginning whale watch a common practice is to check in with the Officer on Deck (OOD) and ask if they have seen any protected species near the fishing location and what direction the ship will be heading for fishing, therefore to focus observation in that direction.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-Haul Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "sampling_procedures.html",
+    "href": "sampling_procedures.html",
+    "title": "Sampling Procedures",
+    "section": "",
+    "text": "Saftey and Ergonomics\nPrior to beginning sampling, take time to consider physical saftey and ergonomics. There are several steps that can be taken.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sampling Procedures</span>"
+    ]
+  },
+  {
+    "objectID": "sampling_procedures.html#saftey-and-ergonomics",
+    "href": "sampling_procedures.html#saftey-and-ergonomics",
+    "title": "Sampling Procedures",
+    "section": "",
+    "text": "Consider some pre sampling stretches to warm up muscles (link to GAP stretches).\nThe fish lab is wet and slippery, make sure that the non-slip floor mats are placed at all workstations.\nRemember to limit basket weights to 20 kg to prevent injuries and practice safe lifting techniques.\nuse two people to move heavy objects like the camtrawl or large totes of fish from the deck.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sampling Procedures</span>"
+    ]
+  },
+  {
+    "objectID": "sampling_procedures.html#midwater-or-bottom-trawl-catches",
+    "href": "sampling_procedures.html#midwater-or-bottom-trawl-catches",
+    "title": "Sampling Procedures",
+    "section": "Midwater or Bottom Trawl catches",
+    "text": "Midwater or Bottom Trawl catches\n\n1. Recording the catch in CLAMS\nOpen the Catch Logger for Acoustic Midwater Surveys (CLAMS) app; See the document CLAM Digging located in the folder G:\\CLAMS for entering catch data on the CLAMS app. See the latest power point document “…Table Tips” for specific survey sampling guidelines, found in the cruise folder or posted in the fish lab\n\n\n2. Equipment Retrieval\nAs the net is hauled back, obtain the SBE (see section IV.A. - SBE 39 Temperature/Pressure data Midwater recorder instructions) from the deck crew and download it as soon as possible. The SBE downloader app is located on the forward computer nearest the sink. Follow the protocols.\nRinse the CamTrawl with fresh water and if time allows download the images before the next deployment. For information on CamTrawl deployment and downloading go to the “BOC Associated Documents” folder. Staff should familiarize themselves with the “Camtrawl quick guide” procedures just in case. However, MACE IT will most often download the CamTrawl images after the haul has been processed.\nIt is common for other equipment to be handed over to the slime lab from the deck crew; various integrated trawl instrumentation (ITI) and special study instrumentation (light sensors, etc.).\n\n\n3. Splitter Bin Versus Sorting Table\nCatches with a total catch weight of less than ~ 2,000 kg (2 tons) can be dumped directly into the sorting table (link to that section) However, for larger catches (&gt;2,000 kg) they must first go into a deck “splitter” bin and are “split” for a subsample.\n\n\nSplitter Bin\n\nFor split catches, a total catch weight must be obtained by weighing the catch in the codend. The load cell(provide link to instructions) or the crane scale may be used. Each (?) crane has an internal scale that has a readout both at the crane and in the fish lab. However the crane scales and/or the readout in the fish lab is not always reliable. A weight from the load cell is preferred.\nOnce the load cell is secure and hanging from the crane hook press TARE and you are ready to weigh the codend.\nAfter the codend is weighed and recorded the catch is dumped into the deck “splitter” bin.\nNext the the weight of the empty codend should be recorded.\nA cargo (brailer) net attached to a metal frame in the bottom of the splitter bin is used to collect a subsample of the catch. This subsample is then lifted into the sorting table.\nOnce the crane is secure, wear PPE and receive deck permission to check the sorting table and splitter bin to make sure the catch is representative/homogenous.\nThe total catch weight is the difference of the full codend and the weight of the empty codend. The load cell can output in either pounds or kilograms. Make sure the load cell reads in kilograms, otherwise select the pounds unit in CLAMS.\n\nSplitter Tips\n\nIf getting weights from the load cell on deck, checking the splitter bin, or checking the sorting table make sure you are wearing PPE (helmet + floatation, either a float coat or life jacket)! Also make sure the deck crew know you are out there.\nDeleted a not about using Whole Haul here. I think the practice of doing that is discouraged. maybe want to double check that whole haul sampling for a single species is described somewhere for example in case of a shark.\nIf the total catch exceeds the capacity of the deck “splitter” bin and the catch is not homogenous, splits should be repeated (with subsequent emptying of the bin) until the entire codend is empty. Alternately, the end of the codend has been pinched off at the thick strap and placed into the sorting table and the rest of the catch dumped overboard. This is not ideal but has happened due to excessive catch, poor weather conditions, and inexperienced crew preventing safe splitter bin operations.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sampling Procedures</span>"
+    ]
+  },
+  {
+    "objectID": "sampling_procedures.html#slime-line",
+    "href": "sampling_procedures.html#slime-line",
+    "title": "Sampling Procedures",
+    "section": "Slime Line",
+    "text": "Slime Line\nThe catch from the sorting table flows directly onto the ‘slime line’ though a hydraulic door.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sampling Procedures</span>"
+    ]
+  },
+  {
+    "objectID": "sampling_procedures.html#lifting",
+    "href": "sampling_procedures.html#lifting",
+    "title": "Sampling Procedures",
+    "section": "Lifting techniques",
+    "text": "Lifting techniques\nOSHA Proper Lifting Techniques: Safe Lifting Ergonomics https://www.osha.com/blog/proper-lifting-techniques\nSafe lifting involves:\n\nStanding as close to the load as possible\nPlanting your feet shoulder-width apart with one foot slightly ahead of the other\nBending at the hips and knees only until you’re deep in a squatting position\nKeeping your head up and straight with your shoulders back to keep your back straight\nHolding the load close to your body at waist height\nEngaging your core muscles as you push against the ground and straighten your legs\n\nHere are a few essential don’ts to keep in mind for good lifting ergonomics:\n\nNever twist your torso while lifting. Stay “nose between your toes.”\nNever lift a heavy item above shoulder level.\nNever carry a load that obstructs your vision.\nNever hold your breath while lifting, moving, and setting the load down.\n\nAs you carry the load to its destination, you want to maintain good ergonomics. That means:\n\nHolding the load as close to your body as possible, level with your belly button\nKeeping your shoulders in line with your hips as you move – don’t twist your trunk\nChanging direction with your feet and leading with your hips\nTaking small steps and keeping a good grip with all your fingers\n\nSetting down a heavy object is just as dangerous as picking it up. You’ll want to reverse the lifting process, following the same ergonomic lifting principles:\n\nKeep the load close to your body and your back straight or slightly arched\nSquat down, bending only at the knees and hips\nTighten your stomach muscles (engage your core) as you lower yourself\nKneel on one knee if necessary",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sampling Procedures</span>"
+    ]
+  },
+  {
+    "objectID": "additional_references.html",
+    "href": "additional_references.html",
+    "title": "Volunteer Glossary",
+    "section": "",
+    "text": "Glossary of Roles and Terms Relevant to MACE surveys aboard NOAA Ships A non-exhaustive list of people, places and things relevant to surveys on the NOAA ship Oscar Dyson.\n\nPeople\nNOAA Corps - Commissioned Officer Corps, one of eight federal uniformed services of the United States, and operates under the National Oceanic and Atmospheric Administration. Always dressed in navy blue when at sea. Serve ~2 year billets alternately at sea or land based assignments.\n\nCO- Commanding Officer, captain of the ship and person responsible for all matters pertaining to safety, management, operations, and physical condition of the ship and makes the final call on all decisions affecting the ship and crew\nXO- Executive Officer, second in command after the CO. Responsible for resource management by overseeing ship personnel, materials, and budget.\nOps- Operations Officer, Serves as liaison between science party and CO and thus serves as the primary point of contact between the science party and ship, coordinates day to day operations between the science party and ship.\nNav- Navigations Officer, in charge of safe navigation and completion of appropriate route planning\nEnsign- Junior officer, relatively new to the ship and has limited survey experience\nMPIC- Medical Person In Charge, a member of the NOAA corps with extra medical training who can provide seasickness meds and who can consult a physician on call to provide other medication if needed.\nOOD- Officer on Duty/Deck, an Officer who is in charge of the ship for the day or watch\n\nCivilian crew - non-commissioned civilian crew members that are either “permanently” assigned to the ship or are in the augment (rotational) pool for NOAA ships.\n\nChief Stew(ard)- Head cook, Prepares menu and meals and ensures provisions are secured for surveys. Stationed in the galley, good person to know and be in good rapport with! Oversees the Steward or 2nd Cook.\n2nd Cook - Assists Chief Steward!\nChief Engineer - Lead engineer, in charge of all the moving parts of the ship that aren’t nets. Oversees the 1st Engineer, 2nd Engineer, 3rd Engineer, and General Vessel Assistant (GVA, or “Wiper”).\nChief ET - Ship’s electronics technician responsible for keeping all the ship’s computers and electronic equipment functioning. The person that connects personal devices to the ship’s Wi-Fi and keeps us connected to the rest of the world when at sea.\nChief Boatswain (Bo’sun)- In charge of fishing and deck operations including any over the side activities (CTD’s, small boat deployments and usage, mooring deployments, etc.), almost always leads fishing operations during the day. With Lead Fishermen, oversees the Deck Crew.\nLead Fisherman - Leads fishing ops during the 2nd shift, second in charge of deck operations after the Bo’sun, not the same person as the Chief Bo’sun! With the Chief Bo’sun, oversees the Deck Crew. Senior Survey Tech- Maintains the scientific seawater sampling system and other tools used during fishing operations. Survey techs also help during trawling and over the side operations. In charge of verifying cleanliness of wet lab at end of survey. Oversees the Survey Tech.\n\nScience crew - civilian NOAA employees (primarily) in charge of the scientific operations.\n\nChief Scientist (CS) or Field Party Chief (FPC) - Science leader, in charge of science decision-making during this survey.\nNight cave - Science lead from 4pm to 4am, makes fishing and survey-related choices and assists the FPC.\nWet lab leads - Day and night wet lab leads are in charge of fish processing and setting up the camtrawl and the SBE prior to trawling. They’re situated in the chem lab when not processing fish in the wet lab.\nET/IT - MACE’s electronics and software tech. Troubleshoots problems with the echosounder, CLAMs, and MACE’s analysis software.\n\n\n\nSpecific places\n\nFlying Bridge- Located outside, atop the bridge. Many of the officers want people to ask permission to spend time up here. Even if they don’t, it’s a good idea to tell someone you’re going up. Bridge- This is the uppermost interior deck, immediately below the flying bridge. This is the place where the ship’s navigation, steering, and trawling operations take place. Nobody calls the bridge the 03 deck, even though that seems like it makes sense. You are welcome to visit the Bridge, except when the ship is leaving the dock or docking, or if you are asked to leave.\n02 (oh-two) deck- The deck where the CO, XO, some of the other officers, and the Chief Scientist have their staterooms. Also where the hospital and XO’s office are located. Up one ladder (stairs on ships are called ladders!) from the 01 deck.\n01 (oh-one) deck- The deck where the science staterooms and the lounge are.\nMain deck- Where the Fish Lab, Chem Lab, and Acoustics Lab (or “Cave”) are located. This could be called the 1 deck.\nMess Deck- This is where the crew eat, not to be confused with…\nGalley- This is where the stewards do the cooking.\nFish Lab- Aka wet lab- location where we in MACE process the catch\nChem Lab - Adjacent to the fish lab, has two MACE computers set up, chemicals are stored there and there’s a hood in there also.\nCave- Aka the Acoustics Lab- this is where the MACE science team monitors the acoustics and makes decisions about trawling. We also work with the incoming data from here. It’s where you’ll find the Chief Scientist, Night Cave, and ET/IT unless they are fishing, eating, or sleeping.\nHero Deck aka Side Sampling Station or Ops Deck- located outside on the starboard side of the Chem Lab, this is where “side ops” are done. When we lower something that isn’t a trawl over the side of the ship, it goes in the water here. 2 deck- The deck below the main deck where crew staterooms, laundry, the gyms, and the engine room are all located.\nForward gym- small gym where treadmill, some weights, and rowing machine are located.\nAft gym- aka iron gym- shares space with the wire room where the huge winches that operate the trawls are located. This gym has more weights, and it is very loud down there while fishing operations are happening.\nLaundry room- located down the ladderwell just forward of the starboard forward hatch in the mess deck.\n\n\n\nGeneral places\n\nTrawl alley and trawl ramp- At the back (aft) of the ship, where the trawl is deployed.\nLadderway- Stairs on a ship.\nPassageway- Hallway on a ship.\nGangway- Mobile bridge used to embark and debark the vessel.\nHead- bathroom on a ship.\nWeather deck/decks - Decks that are open to weather, often secured during heavy seas/heavy freezing spray/other extreme weather conditions.\nPort/Starboard - Port is the left side when you’re facing the bow (the pointy end in front) of the ship, and starboard is the right side. These terms help mariners avoid confusion about left & right, because they remain fixed regardless of which way the mariner faces.\nStern- Back end of a ship.\n\n\n\nThings you might hear (and what they mean)\n\n“All stations”- An announcement that pertains to everyone- listen up!\n“Secure the laundry”- Don’t use the laundry.\n“Secure the water” - You probably get this by now.\n“Stand-by”- Wait. Something might be happening.\n“This is a drill, this is a drill” - Clearly, this is a drill, but what kind of drill?!? If you listen(ed) during the welcome aboard briefing, you’ll know that there are three kinds of drills; Ffire, Spill, MOB, Abandon Ship.\n“Dog all doors/dogs”- This is referring to the metal latches on the inside of the doors that lead out to weather decks. They keep the doors closed and make it so the watertight seals function. Sadly, there are no actual dogs aboard ship.\n\n\n\nGear\n\nSBE- aka “pipe bomb”- Sea Bird Electronics instrument used to measure the pressure/temp/salinity/depth that we place on the head rope of trawl nets. Yes, it’s a terrible nickname.\nCTD- Conductivity, Temperature, Depth instrument that’s deployed from the Hero Deck. Sometimes referred to as the CTD rosette.\nLFS-trawl/net- This is the main midwater fishing net that MACE uses to sample the fish population, it works in tandem with the…\nPNE - “Poly Nor’Eastern” net used for fishing on bottom. Is smaller than the midwater net and has roller gear on the footrope.\n83-112- A second kind of bottom- trawl net with roller gear. Methot- Square-frame net designed to sample krill and other large zooplankton. Deployed via the trawl ramp but uses a different winch.\nCenterboard- Extends\nTransducers aka ’ducers or echosounders- 18, 38, 70, 120, 200, and 330 kHz acoustic transducers that are mounted on the bottom of the ship’s centerboard and send active sound waves (pings) towards the bottom of the ocean.\nCamtrawl- the camera system that we attach to the LFS trawl. It is a stereo camera, which means we can get fish lengths from it. It also lets us know where fish are in the water column.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Volunteer Glossary</span>"
+    ]
+  }
+]

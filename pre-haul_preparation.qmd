@@ -8,7 +8,7 @@ When “Fishing, Fishing, Fishing” has been called and/or the net is being set
 
 ## CamTrawl
 Ensure a charged CamTrawl battery is placed in the CamTrawl, connected, closed, and secured with “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net The deck crew is responsible for securing the CamTrawl to the net.
-See G:\Book of the CAVE and SOPs\BOC\BOC Associated Documents\CamTrawl for the latest CamTrawl quick guide. 
+See `G:\Book of the CAVE and SOPs\BOC\BOC Associated Documents\CamTrawl` for the latest CamTrawl quick guide. 
 
 ![](images/camtrawl.jpg){width=100%}
 
@@ -27,7 +27,6 @@ The large basket scale (at the end of the conveyor belt) and the smaller specime
   * When the calibration is complete, the message “Fit nn” appears.
   *	Values above 25 indicate a poor calibration; repeat calibration if needed.
 
-<br>
 
 **Notes:**
 

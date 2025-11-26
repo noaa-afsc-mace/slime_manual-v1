@@ -12,7 +12,7 @@ Prior to beginning sampling, take time to consider physical saftey and ergonomic
 
 ### 1. Recording the catch in CLAMS
 
-Open the Catch Logger for Acoustic Midwater Surveys (CLAMS) app; See the document CLAM Digging located in the folder G:\CLAMS for entering catch data on the CLAMS app.
+Open the Catch Logger for Acoustic Midwater Surveys (CLAMS) app; See the document CLAM Digging located in the folder `G:\CLAMS` for entering catch data on the CLAMS app.
 See the latest power point document “…Table Tips” for specific survey sampling guidelines, found in the cruise folder or posted in the fish lab
 
 ### 2. Equipment Retrieval

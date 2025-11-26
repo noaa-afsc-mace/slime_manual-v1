@@ -9,6 +9,7 @@ book:
   title: "Slime Lab Manual"
   author: "David Bryan"
   date: "11/20/2025"
+  downloads: [pdf]
   chapters:
     - index.qmd
     - pre-cruise_preparation.qmd
