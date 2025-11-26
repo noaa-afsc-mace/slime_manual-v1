@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Slime Lab"
-subtitle: "(aka fish / wet lab)"
+subtitle: "(aka fish / wet lab manual)"
 ---
 
 This is the **Slime Lab Manual**. This document describes trawl-haul data collection methods, biological sampling requirements, physical oceanographic measurements, and at sea data processing aboard the NOAA Ship Oscar Dyson by the Midwater Assessment Conservation Engineering (MACE) program. Refer to the survey project instructions for specific information on the primary cruise objectives, basic survey design, schedule, equipment, gear, Special Studies, etc. 

@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
   
 params:
   gear_url: "https://docs.google.com/spreadsheets/d/12_39Ke-rfvQZLH6ZlejbbX5bNRX2fFNvNkkVWe21Hp8/edit?gid=1672489246#gid=1672489246" 
@@ -17,7 +18,8 @@ book:
     - physical_data.qmd
     - data_verification_clams.qmd
     - additional_references.qmd
-
+  repo-url: https://github.com/DavidBryan-NOAA/slime_manual-v1/
+  repo-actions: [edit, issue]
 
 
 

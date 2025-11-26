@@ -22,6 +22,35 @@ Rinse the CamTrawl with fresh water and if time allows download the images befor
 
 It is common for other equipment to be handed over to the slime lab from the deck crew; various integrated trawl instrumentation (ITI) and special study instrumentation (light sensors, etc.).
 
+### 3. Splitter Bin Versus Sorting Table
+Catches with a total catch weight of less than ~ 2,000 kg (2 tons) can be dumped directly into the sorting table (link to that section) However, for larger catches (>2,000 kg) they must first go into a deck “splitter” bin and are “split” for a subsample. 
+
+### Splitter Bin
+
+* For split catches, a total catch weight must be obtained by weighing the catch in the codend. The load cell(provide link to instructions) or the crane scale may be used. Each (?) crane has an internal scale that has a readout both at the crane and in the fish lab. However the crane scales and/or the readout in the fish lab is not always reliable. A weight from the load cell is preferred. 
+
+* Once the load cell is secure and hanging from the crane hook press TARE and you are ready to weigh the codend. 
+
+* After the codend is weighed and recorded the catch is dumped into the deck “splitter” bin. 
+
+* Next the the weight of the empty codend should be recorded. 
+
+* A cargo (brailer) net attached to a metal frame in the bottom of the splitter bin is used to collect a subsample of the catch. This subsample is then lifted into the sorting table. 
+
+* Once the crane is secure, wear PPE and receive deck permission to check the sorting table and splitter bin to make sure the catch is representative/homogenous. 
+
+* The total catch weight is the difference of the full codend and the weight of the empty codend. The load cell can output in either pounds or kilograms. Make sure the load cell reads in kilograms, otherwise select the pounds unit in CLAMS.
+
+**Splitter Tips**
+
+* If getting weights from the load cell on deck, checking the splitter bin, or checking the sorting table make sure you are wearing PPE (helmet + floatation, either a float coat or life jacket)! Also make sure the deck crew know you are out there.
+
+* Deleted a not about using Whole Haul here. I think the practice of doing that is discouraged. maybe want to double check that whole haul sampling for a single species is described somewhere for example in case of a shark.  
+
+* If the total catch exceeds the capacity of the deck “splitter” bin and the catch is not homogenous, splits should be repeated (with subsequent emptying of the bin) until the entire codend is empty. Alternately, the end of the codend has been pinched off at the thick strap and placed into the sorting table and the rest of the catch dumped overboard. This is not ideal but has happened due to excessive catch, poor weather conditions, and inexperienced crew preventing safe splitter bin operations.
+
+## Slime Line
+The catch from the sorting table flows directly onto the 'slime line' though a hydraulic door. 
 
 
 

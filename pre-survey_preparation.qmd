@@ -38,7 +38,6 @@ Prepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes
 
 
 
-
 ## Length Boards {#length-boards}
 If lengths are not measuring correctly you may need to re-calibrate the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration):
 * Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.

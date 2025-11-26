@@ -4,8 +4,7 @@ Tasks related to the slime lab that should be completed before boarding the ship
 
 ## A. Equipment Checklist
 
-Gear Inventory (MACE loading and shipping) is a rolling spreadsheet maintained through Google Sheets to track and inventory gear shipped to and from Alaska. [Click here to open Google Sheet]({{< meta params.gear_url >}}){target="_blank"}
-
+Gear Inventory (MACE loading and shipping) is a rolling spreadsheet maintained through Google Sheets to track and inventory gear shipped to and from Alaska. [Click here to open the Google Sheet]({{< meta params.gear_url >}}){target="_blank"}
 
 
 ## B. Special Study Supplies

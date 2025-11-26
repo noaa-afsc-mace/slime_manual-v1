@@ -4,7 +4,8 @@ A non-exhaustive list of people, places and things relevant to surveys on the NO
 
 ### People
 
-**NOAA Corps**- Commissioned Officer Corps, one of eight federal uniformed services of the United States, and operates under the National Oceanic and Atmospheric Administration. Always dressed in navy blue when at sea. Serve ~2 year billets alternately at sea or land based assignments.
+**NOAA Corps** - Commissioned Officer Corps, one of eight federal uniformed services of the United States, and operates under the National Oceanic and Atmospheric Administration. Always dressed in navy blue when at sea. Serve ~2 year billets alternately at sea or land based assignments.
+
 * **CO**- Commanding Officer, captain of the ship and person responsible for all matters pertaining to safety, management, operations, and physical condition of the ship and makes the final call on all decisions affecting the ship and crew
 * **XO**- Executive Officer, second in command after the CO. Responsible for resource management by overseeing ship personnel, materials, and budget.
 * **Ops**- Operations Officer, Serves as liaison between science party and CO and thus serves as the primary point of contact between the science party and ship, coordinates day to day operations between the science party and ship.
@@ -13,7 +14,8 @@ A non-exhaustive list of people, places and things relevant to surveys on the NO
 * **MPIC**- Medical Person In Charge, a member of the NOAA corps with extra medical training who can provide seasickness meds and who can consult a physician on call to provide other medication if needed. 
 * **OOD**- Officer on Duty/Deck, an Officer who is in charge of the ship for the day or watch
 
-**Civilian crew** - non-commissioned civilian crew members that are either “permanently” assigned to the ship or are in the augment (rotational) pool for NOAA ships
+**Civilian crew** - non-commissioned civilian crew members that are either “permanently” assigned to the ship or are in the augment (rotational) pool for NOAA ships.
+
 * **Chief Stew(ard)**- Head cook, Prepares menu and meals and ensures provisions are secured for surveys. Stationed in the galley, good person to know and be in good rapport with! Oversees the Steward or 2nd Cook.
 * **2nd Cook** - Assists Chief Steward!
 * **Chief Engineer** - Lead engineer, in charge of all the moving parts of the ship that aren’t nets. Oversees the 1st Engineer, 2nd Engineer, 3rd Engineer, and General Vessel Assistant (GVA, or “Wiper”).
@@ -22,7 +24,8 @@ A non-exhaustive list of people, places and things relevant to surveys on the NO
 * **Lead Fisherman** - Leads fishing ops during the 2nd shift, second in charge of deck operations after the Bo’sun, not the same person as the Chief Bo’sun! With the Chief Bo’sun, oversees the Deck Crew.
 Senior Survey Tech- Maintains the scientific seawater sampling system and other tools used during fishing operations. Survey techs also help during trawling and over the side operations. In charge of verifying cleanliness of wet lab at end of survey. Oversees the Survey Tech.
 
-**Science crew** - civilian NOAA employees (primarily) in charge of the scientific operations 
+**Science crew** - civilian NOAA employees (primarily) in charge of the scientific operations.
+
 * **Chief Scientist (CS) or Field Party Chief (FPC)** - Science leader, in charge of science decision-making during this survey.
 * **Night cave** - Science lead from 4pm to 4am, makes fishing and survey-related choices and assists the FPC. 
 * **Wet lab leads** - Day and night wet lab leads are in charge of fish processing and setting up the camtrawl and the SBE prior to trawling. They’re situated in the chem lab when not processing fish in the wet lab. 
