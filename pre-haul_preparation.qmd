@@ -2,17 +2,53 @@
 
 It is the responsibility of the Chief Scientist or their designee to determine the areas/depths where trawl hauls will be made. Decisions will be based on a semi-systematic, opportunistic sampling scheme to maximize the value of each sample with respect to the objectives of the survey. Once the timing of sampling has been determined there are several items that can be prepared in the fish lab. 
 
-## SBE
-When “Fishing, Fishing, Fishing” has been called and/or the net is being setup on deck, initiate the SBE at least 15 minutes prior to fishing (see section IV.A. - SBE 39 Temperature/Pressure data recorder instructions). Your presence may be requested on the bridge for the 15 minute whale watch, so do this before you head up to the bridge.
+* Check with FPC or Cave lead to see if you are needed for the [whale watch](#whale-watch)
+* Initiate the [SBE](#SBE-prep) and hang outside fish lab 
+* Prepare the [Camtrawl](#camtrawl) with a charged battery, ensure that green light is slowly blinking and place at fish lab entrance
+* Calibrate [Marel scales](#marel-scales)
+* Check that all [sampling supplies](#sampling-supplies) are refilled and replaced as needed 
 
 
-## CamTrawl
-Ensure a charged CamTrawl battery is placed in the CamTrawl, connected, closed, and secured with “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net The deck crew is responsible for securing the CamTrawl to the net.
-See `G:\Book of the CAVE and SOPs\BOC\BOC Associated Documents\CamTrawl` for the latest CamTrawl quick guide. 
+## SBE {#SBE-prep}
+Trawls and Methots will be equipped with an SBE, commonly referred to as the  “pipe bomb”. These data provide a temperature at depth profile from which an average headrope depth and an average headrope temperature are calculated. As part of the pre-haul preparations, the SBE needs to be set to record.
 
-![](images/camtrawl.jpg){width=100%}
+1. To connect to the SBE make sure it is plugged into the 4-pin connector correctly. The cable and SBE is located above the fish lab sink. Open the SBE Downloader on Workstation 3.
 
-## Marel Scales
+
+![](images/sbe_downloader.png){width=50% fig-align="center"}
+
+
+2. Once the downloader program is open, click on “connect”. At the deployment of a haul it does not matter what haul number is displayed, however, following a haul you should start CLAMS at workstation 1 and initiate the current haul processing prior to opening the SBE Downloader to ensure that the SBE data are logged to the correct haul.
+
+
+![](images/sbe_downloader_II.png){width=50% fig-align="center"}
+
+
+3. The dialog box will scroll through some text. Once the dialog box stops, click on “start logging”.
+
+
+![](images/sbe_downloader_III.png){width=50% fig-align="center"}
+
+
+4. A dialogue box will pop up asking if you are sure that you want to start logging which will clear all data currently on the device. This will reset the sample number to 0 and begin logging data after you click OK.
+
+
+![](images/sbe_downloader_IV.png){width=50% fig-align="center"}
+
+
+5. Let the program run until you can see that the SBE is logging data every 3 seconds. Then click on “Done”. This will quit the SBE downloader and you can unplug the SBE cable and put the rubber dummy plug on. Place the SBE for the deck crew to mount to the net. 
+
+
+![](images/sbe_downloader_V.png){width=50% fig-align="center"}
+
+
+
+## CamTrawl {#camtrawl}
+Ensure a [charged CamTrawl battery](other manuals/Charging camTrawl Batteries.pdf){target="_blank"} is placed in the CamTrawl, connected, closed, and secured with a “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net The deck crew is responsible for securing the CamTrawl to the net. For more information see the latest CamTrawl [quick guide](other manuals/Camtrawl quick guide Feb 2024.pdf){target="_blank"}. 
+
+![](images/camtrawl.jpg){width=100% fig-align="center"}
+
+## Marel Scales {#marel-scales}
 The large basket scale (at the end of the conveyor belt) and the smaller specimen scales (on the counters) require calibration before each haul is processed - use the stainless steel 20 kg (large scale) and 2 kg (small scale) weights provided for this purpose for each scale respectively. Remove all objects from scale and dump any water collected on top the 20 kg weight. 
 
 **Marel M1100 Calibration:**
@@ -32,15 +68,21 @@ The large basket scale (at the end of the conveyor belt) and the smaller specime
 
 * While using the scale, Grade should be selected not Packing. Use the up or down arrow to change. The scale will not input weight into Clams when in Packing mode.
 * Place an empty basket or tub on the scale and press “Tare”. You are ready to weigh baskets!
-* If the scale is not steady and it has become more difficult to collect weights it may be necessary to recalibrate scales particularly if weather changes or the ride of the ship changes between the initial calibration and getting back on transect.
+* If the scale is not providing steady readings and it has become difficult to collect weights, it may be necessary to re-calibrate scales mid-haul. This can occur if the weather changes or the ride of the ship changes between the initial calibration and getting back on transect.
+* If the scale can not provide readings and the measuring plate appears loose and moves independently of the base. The load cell bolts may be loose and require tightening. There are two sets on either side of the scale. 
+
+![](images/marel_scale_load_cell_bolts.png){width=75% fig-align="center"}
 
 
-## Other Items
+
+## Sampling Supplies {#sampling-supplies}
 Replace and refill standard sampling supplies such as scalpel blades, the glycerol thymol squeeze bottle, vials caps, and the otolith vials trays as needed.
 
 Determine if special study requests are applicable for the region and haul type and prepare for sampling if necessary (i.e., set up supplies, prepare labels, ovary bags, storage bags).
 
+
+## Protected Species Watch (AKA Whale Watch) {#whale-watch}
+
 ![](images/orcas.jpg){width=100%}
 
-## Protected Species Watch (AKA Whale Watch)
-Check in the with FPC or Cave Lead to determine if you are requested to complete a whale watch on the bridge 15 minutes prior to the net entering the water. Updated protocols for protected species observation and avoidance measures is located in the “BOC Associated Documents” folder or the current cruise folder. For 2025, look for the document titled “MACE protected species at-sea procs_FY25_v11.docx”. When beginning whale watch a common practice is to check in with the Officer on Deck (OOD) and ask if they have seen any protected species near the fishing location and what direction the ship will be heading for fishing, therefore to focus observation in that direction.
+Check in the with FPC or Cave Lead to determine if you are requested to complete a whale watch on the bridge 15 minutes prior to the net entering the water. Updated protocols for protected species observation and avoidance measures is located in the “BOC Associated Documents” folder or the current cruise folder. For 2025, look for the document titled “MACE protected species at-sea procs_FY25_v11.docx”. When beginning whale watch a common practice is to check in with the Officer on Deck (OOD) and ask if they have seen any protected species near the fishing location and what direction the ship will be heading for fishing. Observations for protected species can be focused in that direction.

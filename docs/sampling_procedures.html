@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./physical_data.html" rel="next">
+<link href="./data_verification_clams.html" rel="next">
 <link href="./pre-haul_preparation.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -112,17 +112,22 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Welcome to the Slime Lab</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pre-cruise_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Cruise Preparation</span></a>
+  <a href="./pre-season_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Season Preparation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pre-survey_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Survey Preparation</span></a>
+  <a href="./gear_trials.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gear Trials</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./calibration.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Calibration</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -137,22 +142,24 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./physical_data.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">physical_data.html</span></a>
+  <a href="./data_verification_clams.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">QA/QC</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data_verification_clams.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">data_verification_clams.html</span></a>
+  <a href="./post-survey.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Post Sampling and Survey Cleanup</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./additional_references.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Volunteer Glossary</span></a>
+  <a href="./additional_references.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Additional References</span></a>
   </div>
 </li>
     </ul>
     </div>
-</nav>
+<div class="quarto-sidebar-footer"><div class="sidebar-footer-item">
+<p><img src="images/MACE_logo_bw_lg.png" class="img-fluid" width="200"></p>
+</div></div></nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -161,15 +168,38 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#saftey-and-ergonomics" id="toc-saftey-and-ergonomics" class="nav-link active" data-scroll-target="#saftey-and-ergonomics">Saftey and Ergonomics</a></li>
-  <li><a href="#midwater-or-bottom-trawl-catches" id="toc-midwater-or-bottom-trawl-catches" class="nav-link" data-scroll-target="#midwater-or-bottom-trawl-catches">Midwater or Bottom Trawl catches</a>
+  <li><a href="#recording-catch" id="toc-recording-catch" class="nav-link" data-scroll-target="#recording-catch">Midwater or Bottom Trawl catches</a>
   <ul class="collapse">
   <li><a href="#recording-the-catch-in-clams" id="toc-recording-the-catch-in-clams" class="nav-link" data-scroll-target="#recording-the-catch-in-clams">1. Recording the catch in CLAMS</a></li>
   <li><a href="#equipment-retrieval" id="toc-equipment-retrieval" class="nav-link" data-scroll-target="#equipment-retrieval">2. Equipment Retrieval</a></li>
   <li><a href="#splitter-bin-versus-sorting-table" id="toc-splitter-bin-versus-sorting-table" class="nav-link" data-scroll-target="#splitter-bin-versus-sorting-table">3. Splitter Bin Versus Sorting Table</a></li>
-  <li><a href="#splitter-bin" id="toc-splitter-bin" class="nav-link" data-scroll-target="#splitter-bin">Splitter Bin</a></li>
+  <li><a href="#splitter-bin" id="toc-splitter-bin" class="nav-link" data-scroll-target="#splitter-bin">4. Splitter Bin</a></li>
+  <li><a href="#shark-or-marine-mammal" id="toc-shark-or-marine-mammal" class="nav-link" data-scroll-target="#shark-or-marine-mammal">Shark or Marine Mammal</a></li>
   </ul></li>
-  <li><a href="#slime-line" id="toc-slime-line" class="nav-link" data-scroll-target="#slime-line">Slime Line</a></li>
-  <li><a href="#lifting" id="toc-lifting" class="nav-link" data-scroll-target="#lifting">Lifting techniques</a></li>
+  <li><a href="#slime-line" id="toc-slime-line" class="nav-link" data-scroll-target="#slime-line">Slime Line</a>
+  <ul class="collapse">
+  <li><a href="#roles" id="toc-roles" class="nav-link" data-scroll-target="#roles">Roles</a></li>
+  <li><a href="#operations" id="toc-operations" class="nav-link" data-scroll-target="#operations">Operations</a></li>
+  <li><a href="#subsample-selection" id="toc-subsample-selection" class="nav-link" data-scroll-target="#subsample-selection">Subsample selection</a></li>
+  <li><a href="#biological-sample" id="toc-biological-sample" class="nav-link" data-scroll-target="#biological-sample">Biological Sample</a></li>
+  <li><a href="#target-species-measure-subsample" id="toc-target-species-measure-subsample" class="nav-link" data-scroll-target="#target-species-measure-subsample">Target Species Measure Subsample</a></li>
+  <li><a href="#non-pollock-sampling" id="toc-non-pollock-sampling" class="nav-link" data-scroll-target="#non-pollock-sampling">Non pollock Sampling</a></li>
+  <li><a href="#mixes-and-submixes" id="toc-mixes-and-submixes" class="nav-link" data-scroll-target="#mixes-and-submixes">Mixes and Submixes</a></li>
+  </ul></li>
+  <li><a href="#bio-samps" id="toc-bio-samps" class="nav-link" data-scroll-target="#bio-samps">Biological Sampling</a>
+  <ul class="collapse">
+  <li><a href="#length-frequency" id="toc-length-frequency" class="nav-link" data-scroll-target="#length-frequency">Length Frequency</a></li>
+  <li><a href="#specimen-samples-otoliths-sex-maturity-lengthweight-gonad-weight-and-special-studies-sampling" id="toc-specimen-samples-otoliths-sex-maturity-lengthweight-gonad-weight-and-special-studies-sampling" class="nav-link" data-scroll-target="#specimen-samples-otoliths-sex-maturity-lengthweight-gonad-weight-and-special-studies-sampling">Specimen Samples: Otoliths, Sex, Maturity, length/Weight, Gonad Weight, and Special Studies Sampling</a></li>
+  <li><a href="#prohibited-species" id="toc-prohibited-species" class="nav-link" data-scroll-target="#prohibited-species">Prohibited Species</a></li>
+  <li><a href="#rare-and-unidentified-species-collection" id="toc-rare-and-unidentified-species-collection" class="nav-link" data-scroll-target="#rare-and-unidentified-species-collection">Rare and Unidentified Species Collection</a></li>
+  <li><a href="#special-requests" id="toc-special-requests" class="nav-link" data-scroll-target="#special-requests">Special Requests</a></li>
+  </ul></li>
+  <li><a href="#methots" id="toc-methots" class="nav-link" data-scroll-target="#methots">Methot Trawl Catches</a>
+  <ul class="collapse">
+  <li><a href="#setup-and-sample-collection" id="toc-setup-and-sample-collection" class="nav-link" data-scroll-target="#setup-and-sample-collection">Setup and Sample Collection:</a></li>
+  <li><a href="#processing-catch" id="toc-processing-catch" class="nav-link" data-scroll-target="#processing-catch">Processing Catch</a></li>
+  </ul></li>
+  <li><a href="#SBE-download" id="toc-SBE-download" class="nav-link" data-scroll-target="#SBE-download">SBE</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/edit/main/sampling_procedures.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -195,34 +225,53 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>This section of the manual provides instruction on what to when a midwater or bottom trawl catch first comes <a href="#recording-catch">onboard</a>, how to sort the catch on the <a href="#slime-line">slime line</a>, and how to collect <a href="#bio-samps">biological samples</a>. There is also a section on how to handle <a href="#methots">Methot trawls</a>.</p>
 <section id="saftey-and-ergonomics" class="level2">
 <h2 class="anchored" data-anchor-id="saftey-and-ergonomics">Saftey and Ergonomics</h2>
 <p>Prior to beginning sampling, take time to consider physical saftey and ergonomics. There are several steps that can be taken.</p>
 <ul>
 <li>Consider some pre sampling stretches to warm up muscles (link to GAP stretches).</li>
 <li>The fish lab is wet and slippery, make sure that the non-slip floor mats are placed at all workstations.</li>
-<li>Remember to limit basket weights to 20 kg to prevent injuries and practice safe <a href="#lifting">lifting techniques</a>.</li>
+<li>Remember to limit basket weights to 20 kg to prevent injuries and practice safe <a href="aditional_references.qmd#lifting">lifting techniques</a>.</li>
 <li>use two people to move heavy objects like the camtrawl or large totes of fish from the deck.</li>
 </ul>
 </section>
-<section id="midwater-or-bottom-trawl-catches" class="level2">
-<h2 class="anchored" data-anchor-id="midwater-or-bottom-trawl-catches">Midwater or Bottom Trawl catches</h2>
+<section id="recording-catch" class="level2">
+<h2 class="anchored" data-anchor-id="recording-catch">Midwater or Bottom Trawl catches</h2>
 <section id="recording-the-catch-in-clams" class="level3">
 <h3 class="anchored" data-anchor-id="recording-the-catch-in-clams">1. Recording the catch in CLAMS</h3>
-<p>Open the Catch Logger for Acoustic Midwater Surveys (CLAMS) app; See the document CLAM Digging located in the folder <code>G:\CLAMS</code> for entering catch data on the CLAMS app. See the latest power point document “…Table Tips” for specific survey sampling guidelines, found in the cruise folder or posted in the fish lab</p>
+<p>Open the Catch Logger for Acoustic Midwater Surveys (CLAMS) app; See the document CLAM Digging located in the folder <code>G:\CLAMS</code> for entering catch data on the CLAMS app.</p>
+<div class="callout callout-style-default callout-caution callout-titled" title="CLAMS">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+CLAMS
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The CLAM digging document in G is from 2013. Is there some updated instructions somewhere that we can reference? Any quick bullets we could add here?</p>
+</div>
+</div>
 </section>
 <section id="equipment-retrieval" class="level3">
 <h3 class="anchored" data-anchor-id="equipment-retrieval">2. Equipment Retrieval</h3>
-<p>As the net is hauled back, obtain the SBE (see section IV.A. - SBE 39 Temperature/Pressure data Midwater recorder instructions) from the deck crew and download it as soon as possible. The SBE downloader app is located on the forward computer nearest the sink. Follow the protocols.</p>
-<p>Rinse the CamTrawl with fresh water and if time allows download the images before the next deployment. For information on CamTrawl deployment and downloading go to the “BOC Associated Documents” folder. Staff should familiarize themselves with the “Camtrawl quick guide” procedures just in case. However, MACE IT will most often download the CamTrawl images after the haul has been processed.</p>
+<p>As the net is hauled back, obtain the SBE from the deck crew and <a href="#SBE-download">download</a> it as soon as possible. The SBE downloader app is located on the forward computer nearest the sink.</p>
+<p>Rinse the CamTrawl with fresh water and if time allows <a href="other manuals/Camtrawl quick guide Feb 2024.pdf" target="_blank">download</a> the images before the next deployment.</p>
 <p>It is common for other equipment to be handed over to the slime lab from the deck crew; various integrated trawl instrumentation (ITI) and special study instrumentation (light sensors, etc.).</p>
 </section>
 <section id="splitter-bin-versus-sorting-table" class="level3">
 <h3 class="anchored" data-anchor-id="splitter-bin-versus-sorting-table">3. Splitter Bin Versus Sorting Table</h3>
 <p>Catches with a total catch weight of less than ~ 2,000 kg (2 tons) can be dumped directly into the sorting table (link to that section) However, for larger catches (&gt;2,000 kg) they must first go into a deck “splitter” bin and are “split” for a subsample.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/splitter.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
 </section>
 <section id="splitter-bin" class="level3">
-<h3 class="anchored" data-anchor-id="splitter-bin">Splitter Bin</h3>
+<h3 class="anchored" data-anchor-id="splitter-bin">4. Splitter Bin</h3>
 <ul>
 <li><p>For split catches, a total catch weight must be obtained by weighing the catch in the codend. The load cell(provide link to instructions) or the crane scale may be used. Each (?) crane has an internal scale that has a readout both at the crane and in the fish lab. However the crane scales and/or the readout in the fish lab is not always reliable. A weight from the load cell is preferred.</p></li>
 <li><p>Once the load cell is secure and hanging from the crane hook press TARE and you are ready to weigh the codend.</p></li>
@@ -235,47 +284,238 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Splitter Tips</strong></p>
 <ul>
 <li><p>If getting weights from the load cell on deck, checking the splitter bin, or checking the sorting table make sure you are wearing PPE (helmet + floatation, either a float coat or life jacket)! Also make sure the deck crew know you are out there.</p></li>
-<li><p>Deleted a not about using Whole Haul here. I think the practice of doing that is discouraged. maybe want to double check that whole haul sampling for a single species is described somewhere for example in case of a shark.</p></li>
+<li><p>Deleted a note about using Whole Haul here. I think the practice of doing that is discouraged. Maybe want to double check that whole haul sampling for a single species is described somewhere, for example in case of a shark.</p></li>
 <li><p>If the total catch exceeds the capacity of the deck “splitter” bin and the catch is not homogenous, splits should be repeated (with subsequent emptying of the bin) until the entire codend is empty. Alternately, the end of the codend has been pinched off at the thick strap and placed into the sorting table and the rest of the catch dumped overboard. This is not ideal but has happened due to excessive catch, poor weather conditions, and inexperienced crew preventing safe splitter bin operations.</p></li>
 </ul>
+</section>
+<section id="shark-or-marine-mammal" class="level3">
+<h3 class="anchored" data-anchor-id="shark-or-marine-mammal">Shark or Marine Mammal</h3>
+<p>If a large shark is caught please follow the <a href="other manuals/Shark_protocol_20230428.pdf">MACE protocol</a> for its release. Remember to collect ___ measurements if possible.</p>
+<p>Follow the marine mammal protocol (?) if one is caught.</p>
 </section>
 </section>
 <section id="slime-line" class="level2">
 <h2 class="anchored" data-anchor-id="slime-line">Slime Line</h2>
 <p>The catch from the sorting table flows directly onto the ‘slime line’ though a hydraulic door.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/fish_on_belt.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<section id="roles" class="level3">
+<h3 class="anchored" data-anchor-id="roles">Roles</h3>
+<p>At least three people are desirable for the slime line. One person (often the Fish Lab Lead) operates the belt system and also weighs and enters the catch data into CLAMS. It is essential for this person to be following the “Table Tips” for species collection intended for length frequency measurements, biological sampling, and Special Studies for the current survey. Table Tips are updated for each winter and summer survey, particularly biological collections and Special Studies. The second person operates the hydraulic sorting table door using the lever on the inboard side of the sorting belt (see image above) and allows the catch to steadily and slowly flow from the sorting table to the sorting belt so the catch can be efficiently screened and sorted by the slime line team. The third person will also sort species from the belt as directed by the Fish Lab Lead and often stands on the outboard side of the sorting belt. If there is low bycatch and the catch requires minimal sorting, only 2 people are necessary to run the slime line. In this case, the third person may get a jump start on measuring the lengths of the target species set aside by the Fish Lab Lead. If bycatch composes a significant portion of the catch, the third person helps sort out items from the catch to be weighed and measured after the table has been emptied.</p>
 </section>
-<section id="lifting" class="level2">
-<h2 class="anchored" data-anchor-id="lifting">Lifting techniques</h2>
-<p>OSHA Proper Lifting Techniques: Safe Lifting Ergonomics https://www.osha.com/blog/proper-lifting-techniques</p>
-<p>Safe lifting involves:</p>
+<section id="operations" class="level3">
+<h3 class="anchored" data-anchor-id="operations">Operations</h3>
+<p>Once the deck area around the sorting table is clear of deck operations and the ok is given from the deck lead, the sorting table can be raised. Clearly shout out to the deck “Table coming up!” so they are aware and the person on the outboard side of the sorting belt can raise the table using the hydraulic lever. The catch is steadily and slowly dumped onto the sorting belt by raising and lowering the table door to maintain a single layer of fish on the table that can be sorted through. The catch is sorted by species and weighed.</p>
+<p>Once some of the catch has been allowed to flow onto the sorting belt, pause and make a sampling strategy! Reference common sampling strategies (i.e.&nbsp;the ‘sorting pollock’ table tips slide) and consider suggestions from team members; they may have an alternative, more efficient sorting strategy. Once a strategy has been chosen confirm it with the fish lab team so everyone is on the same page working together.</p>
 <ul>
-<li>Standing as close to the load as possible</li>
-<li>Planting your feet shoulder-width apart with one foot slightly ahead of the other</li>
-<li>Bending at the hips and knees only until you’re deep in a squatting position</li>
-<li>Keeping your head up and straight with your shoulders back to keep your back straight</li>
-<li>Holding the load close to your body at waist height</li>
-<li>Engaging your core muscles as you push against the ground and straighten your legs</li>
+<li><p>Remember to avoid “picking” species or pollock of a particularly large or small size class from the belt unless you pick ALL individuals of that species/size or subclass of that species.</p></li>
+<li><p>When hauls are composed almost entirely of one species, the bycatch can be sorted off the sorting belt while the dominant species is left on the belt to be load into baskets and weighed. For example, all non dominant species are placed into a bin to be sorted after the belt is cleared.</p></li>
+<li><p>Occasionally there are 2 predominant species in the catch such as pollock and jellyfish, pollock and POP, or even pollock and a Mix. It is more ergonomic to leave both species on the belt and sort the 2 predominant species by sliding/tossing one species forward while leaving the other behind. This creates an alternating flow of two species moving towards the scale. The person at the scale weighing the catch will then need to switch between the two species in CLAMS while recording weights.</p></li>
 </ul>
-<p>Here are a few essential don’ts to keep in mind for good lifting ergonomics:</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>When weighing baskets of selected species at the end of the sorting belt be mindful of the weight of the baskets. Repetitive heavy lifting of full baskets is discouraged at sea and may result in “repetitive stress/strain injuries.” Consider maintaining a maximum basket weight of ~20kg. It is encouraged to set aside <strong>more</strong> baskets that are <strong>lighter</strong> to make the lifting easier and <strong>safer</strong> for the fish lab <strong>team</strong>.</p>
+</div>
+</div>
+</div>
+<p>A reminder that <u>everything in the catch gets weighed</u>, then it is designated as being Measured, Counted or Tossed. Baskets that are retained for length/sex or biological sampling are designated “Measure”. Baskets that are weighed and “Tossed” are tossed over through the discard shoot. Baskets of target species are generally not “Counted”, this is typically reserved for catch species that we do not length (amphipods) or abundant larval fish such as Age-0 pollock. “Count” baskets may be discarded after the counted amount has been entered into CLAMS.</p>
+<p>Digital species ID guides for <a href="other manuals/FishGuide2024_03_06.pdf" target="_blank">Fishes</a> and <a href="other manuals/invert_guide_vol1.pdf" target="_blank">Invertebrates</a> can be accessed by clicking on the links. A suite of hard copies of ID guide books can also be found in the Chem Lab.</p>
+</section>
+<section id="subsample-selection" class="level3">
+<h3 class="anchored" data-anchor-id="subsample-selection">Subsample selection</h3>
+<p>Since weighing and measuring all individuals that have been sorted on the belt is not typically feasible (except for small hauls), a subsample of predominate species or species mixes is made. Subsamples can be taken from the targeted catch (often pollock or POP) and from the bycatch (everything else; often forage fishes). When the catch is subsampled, it must be random and representative of the whole catch.</p>
+<p>When taking a subsample, a proportion is weighed and <strong>“Measured”</strong> while the remainder is weighed and <strong>“Tossed”</strong>. The weights and numbers from the measured subsample are extrapolated in the database to represent the total weight and number of that species in the catch. The fish marked as <strong>Measured</strong> are also referred to as the biological sample.</p>
+<p>If alternative instructions are directed, (e.g., Special Studies) an additional option is weighed and <strong>“Counted”</strong> (sometimes larval fish, Age-0 and Age-1 pollock).</p>
+<p>The size of the <strong>Measured</strong> biological sample depends on the species or the species mixture. Refer to the <strong>Table Tips</strong> posted on the wall for guidance. Instead of counting individual specimens for the biological sample, weight can be used. For example, if Table Tips recommends 300 adult pollock for biological sample, and you you count 30 pollock in a basket weighing 20kg, instead of counting 300 pollock you could mark 10 baskets as <strong>“Measure”</strong> and <strong>“Toss”</strong> the remainder. After the appropriate number of baskets for the biological sample have been weighed, recorded, and set aside for processing, all fish in excess of the selected biological sample may be weighted and selected as <strong>“Toss”</strong> and discarded overboard.</p>
+</section>
+<section id="biological-sample" class="level3">
+<h3 class="anchored" data-anchor-id="biological-sample">Biological Sample</h3>
+<p>The subsample marked as <strong>“Measure”</strong> constitutes the biological sample. The biological sample is subdivided into either <strong>Specimens</strong> that include any fish that needs to be cut open and <strong>Length/Weights</strong> that include any organism in which only a length and weight is needed. <strong>Specimens</strong> include pollock theat need to have otoliths taken, pollock and any other fish that need to have sex and/or maturity status recorded, and special study species. When both <strong>Specimens</strong> and <strong>Length/Weights</strong> are required they should be randomly selected from the biological sample. This can be done by randomly selecting the appropriate number of baskets of fish for each collection or alternatively, during a random basket collection, select the number of fish required for the <strong>Specimens</strong> sample by using a zigzag pattern; on the sorting belt, the zigzag method involves collecting all fish in a left to right or right to left zigzag pattern until the required number of fish has been reached. Separately, on a different random basket collection repeat the zigzag method for the <strong>Length/Weight</strong> sample.</p>
+</section>
+<section id="target-species-measure-subsample" class="level3">
+<h3 class="anchored" data-anchor-id="target-species-measure-subsample">Target Species Measure Subsample</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/sorting_pollock_directions.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>Always take an equal portion for the <strong>Measure</strong> subsample from the first, middle and last section of the catch by attempting an adaptable systematic random design, collecting every X basket. To help create the random design visually inspect the fullness and species composition of the sorting table before processing the catch. For example, when the fish table is half to three fourths full of predominantly average sized Adult Pollock, collecting every sixth basket is a great place to start. Keep in mind, random sampling is an adaptable practice; therefore, if more or less fish are needed, you may increase or decrease the collection frequency of baskets to obtain the ideal sample size. If less fish are needed, consider the option of reducing the basket fullness to reduce fish and maintain the sample design.</p>
+<p>When estimating the number of baskets/target species to set aside it is a general practice to count the target species in the first basket and reflect upon that total with the posted amounts on the Table Tips. For example, if 30 fish are counted in the first basket and the Table Tips requests 30 pollock for otoliths, 20 for sexed length/weight/maturity and 250 for length only, set aside roughly ~ 1 basket for otoliths, 1 basket for sexed length/weight/maturity, and 9 baskets, for lengths. If using a basket, as subsampling tool all the fish most be measured within that basket. If there way more than needed, dump the fish out and collect a random sample from those for your measurement.</p>
+</section>
+<section id="non-pollock-sampling" class="level3">
+<h3 class="anchored" data-anchor-id="non-pollock-sampling">Non pollock Sampling</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/forage-other-fish-sampling-directions.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>Check the <strong>Table Tips</strong> to determine what quantity of a species should be retained for lengths, lengths/weights or special studies. Similar to pollock, non-pollock catch can be divided into fish that are weighed and kept for measurements and those that are weighed and then tossed. When not retaining the entirety of a bycatch species for “measurements” then take an equal portion for the measurement subsample from the first, middle and last section of the sorting table. For smaller species, like forage fish, the entirety of it can be collected in a few baskets then subsampled at the end. A simple practice to reduce to the desired amount is the “basket dump” technique. From the 2025 Observer Sampling Manual pg 13-5:</p>
+<p>“The basket dump method works well on most vessels and in most fisheries as a method to randomly reduce a population. Once you have randomly selected a basket of unsorted catch from your species composition sample, split your selected basket by dumping it into two empty containers lined up next to each other. Assign numbers to the two empty baskets before dumping. After dumping the basket, randomly select one of these two containers and use all the predominant species in the randomly selected basket for your sex/length and specimen fish.”</p>
+<p>Repeat the basket dump method until reaching the desired sample size.</p>
+</section>
+<section id="mixes-and-submixes" class="level3">
+<h3 class="anchored" data-anchor-id="mixes-and-submixes">Mixes and Submixes</h3>
+<p>Eulachon, juvenile pollock, and other forage fish are often caught together in Shelikof Strait. When a catch of multiple similar species cannot be separated to species in a reasonable amount of time at the sorting belt, create a “Mix” by selecting the species as “Mix”. The mix category can be created to encompass all of these individuals. In these cases, a portion of the mix needs to be further sorted, weighed and for species composition and measurements of the Mix. The rest of mix can be weighed and <strong>Tossed</strong>. Similar to collecting a subsample to <strong>Measure</strong> as described above, collect an equal portion of the “Mix” from the first, middle and last section to sort, weigh and measure. Unlike the subsample, we save a couple baskets to the side until the entire haul has been processed from the sorting table. The saved “Mix” basket(s) intended for species composition representation should be weighed and selected as a <strong>Measure</strong>. Similar to a subsample, the weights and numbers of the species composition of the “Mix” will be extrapolated in the database to represent the total weight and number for all of those species in the catch. See the <strong>Table Tips</strong> example below “Handling mixes”, this will also be posted in the fish lab. Sort the mix from the representative basket(s) by species, and weigh the separated species and remember that the parent sample is now the “Mix” and not the “Sorting Table.” The remaining “Mix” baskets from the sorting table should also be weighted and “Tossed.”</p>
+<p><img src="images/handling-mixes.png" class="img-fluid" style="width:100.0%"></p>
+<p><img src="images/using-submix.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+</section>
+<section id="bio-samps" class="level2">
+<h2 class="anchored" data-anchor-id="bio-samps">Biological Sampling</h2>
+<section id="length-frequency" class="level3">
+<h3 class="anchored" data-anchor-id="length-frequency">Length Frequency</h3>
+<p><img src="images/pollock-in-a-row.png" class="img-fluid" style="width:100.0%"></p>
+<p>Length frequency data for each haul is collected at the species specific amounts identified in the <strong>Table Tips</strong>. Length frequency samples must be randomly selected. In general, lengths are collected from approximately 300 pollock per haul; 250 of those are lengths only as described here, and 50 more come from <strong>Specimen</strong> samples that include the otolith collection and additional length/weight/sex/maturity collections. Length frequency are typically collected from 35 (10 length/weights) non-target species (see “Subsample selection” section or <strong>Table Tips</strong> for target species divided into different size classes and length frequency goals).</p>
+<p><img src="images/length_board.jpg" class="img-fluid" style="width:100.0%"> The Ichthysticks, also known as length boards, are used to magnetically measure the length of specimens into CLAMS. See posted <strong>Table Tips</strong> for examples of length types and species. For fish, place the tip of the snout at 0 (against the vertical panel at the left end of the measuring board) and position the pointed end of the stylus at the tip of the middle rays of the caudal fin (fork length). CLAMS will ask for specific lengths for each species. Keep the basket as the sampling unit (i.e., if you start sampling a basket, finish the basket) and avoid incidental hand selection biases.</p>
+<p><img src="images/length_types.png" class="img-fluid" style="width:100.0%"></p>
+<p>All length boards are calibrated prior to entering the field (i.e.&nbsp;during Gear Trials). If measured lengths on the length board are significantly off from the length board ruler by more than a few millimeters they may need to be <a href="other manuals/Calibrating Ichthystick.pdf" target="_blank">recalibrated</a>. Contact MACE IT (i.e.&nbsp;Rick Towler, Scott Furnish, etc) and inform the Fish Lab Lead to monitor the length board for the possibility of future glitches; it is possible the length board will have to be switched for a spare. Please note the calibration process is conducted with a standard meter stick and not the ruler on the length board. Often the quickest fix to a frazzled length board is resetting the length board. The simplest reset option is completed by closing CLAMS and reopening the application.</p>
+<p><strong>When cleaning the wet lab do not spray high pressure water on the clear control board area of the length boards, that can introduce water into the system and ruin the boards!</strong></p>
+</section>
+<section id="specimen-samples-otoliths-sex-maturity-lengthweight-gonad-weight-and-special-studies-sampling" class="level3">
+<h3 class="anchored" data-anchor-id="specimen-samples-otoliths-sex-maturity-lengthweight-gonad-weight-and-special-studies-sampling">Specimen Samples: Otoliths, Sex, Maturity, length/Weight, Gonad Weight, and Special Studies Sampling</h3>
+<p>In addition to unsexed length measurements described above, <strong>Specimen</strong> samples including the collection of otoliths, sex, maturity, specimen weight, and gonad weight is another slime team collaboration that involves a minimum of 2 people. Depending on staffing, it may be preferable to complete measuring the lengths of all the target species and non-target species before proceeding to this data collection. The collection of length, weight, sex, maturity, and gonad weight is referred to as the GSI (gonadosomatic index) protocol.The collection of otoliths as the otolith protocol.</p>
+<p>The GSI protocol can be completed efficiently by 1 person that has experience with target species (pollock) maturities.</p>
+<p>Three people working collaboratively on the otolith protocol and special studies enables a more efficient processing times.</p>
+<p>Alternatively, a Fish Lab Lead may prefer one person completes all the length measurements while two others start work on the GSI and /or the otolith protocols.</p>
+<p>A reminder; both pollock specimen protocols in CLAMS collect GSI data, however only one protocol is capable of collecting otolith data, and is required to collect otoliths under that CLAMS protocol.</p>
+<div class="callout callout-style-default callout-caution callout-titled" title="Question for later">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Question for later
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Should we include a description on what a “protocol” is?</p>
+</div>
+</div>
+<p>From the “Measure” baskets randomly placed aside for <strong>Specimens</strong> (i.e.&nbsp;otoliths and GSI) collect the following data in CLAMS under the Specimen tab: a. fork length b. specimen weight c.&nbsp;sex and maturity stage (refer to Maturity stages posted in fish lab) d.&nbsp;weight of all prespawning ovaries (stage 3) - If collecting ovaries, weigh the liver. e. otoliths f.&nbsp;any applicable Special Studies collection</p>
+<section id="otoliths" class="level5">
+<h5 class="anchored" data-anchor-id="otoliths">Otoliths</h5>
+<p>It is the responsibility of the recorder and the vial scanner to make sure the otoliths are being placed in the correct vial. Throughout the collection process, the vial numbers are always scanned in an increasing numerical order, not out of order. After each row, always spot check the vial number correlates to the specimen number on CLAMS. If there are any discrepancies, discard the otoliths in question and erase the data. he data can be re-entered under the GSI protocol if otoliths are lost in the process.</p>
+<p>During the otolith collection for a haul, use the squeeze bottle to fill vials just enough to cover otoliths with glycerol thymol. Vials should be tightly capped and re-checked for “extra” otoliths. Assure that each Styrofoam container is labeled with cruise number, specimen number range, and species.</p>
+</section>
+<section id="non-random-sample-collection" class="level4">
+<h4 class="anchored" data-anchor-id="non-random-sample-collection">Non-Random Sample Collection</h4>
+<p>Situations arise when a random sample of age structures is not desired or necessary. Note this occurrence on CLAMS by selecting NONRANDOM on the specimen form. Remember to unselect NONRANDOM if switching back to the random sample of Pollock. The length data recorded from age structure samples will not be combined with the length frequency measurements described earlier except when absolutely necessary (e.g., due to a small catch) and the sample is random.</p>
+</section>
+</section>
+<section id="prohibited-species" class="level3">
+<h3 class="anchored" data-anchor-id="prohibited-species">Prohibited Species</h3>
+<p>Measure the length and weight all salmon and halibut captured and return to sea as quickly as possible. Halibut are measured by fork length; according to the 2025 Observer Sampling Manual pg.12-5: “If a halibut is longer than the Length board, lay the halibut on top of a tape measure. Do not obtain measurements derived from laying the tape measure over the top of the fish and sighting down. These are curvilinear lengths and they are not viable data for data users.”</p>
+<p>The same measuring technique goes for large skates. Weights can be extrapolated from many species of large fish using Length-Weight tables only when the lengths are collected correctly, including salmon and sleeper sharks.</p>
+</section>
+<section id="rare-and-unidentified-species-collection" class="level3">
+<h3 class="anchored" data-anchor-id="rare-and-unidentified-species-collection">Rare and Unidentified Species Collection</h3>
+<p>Collections of rare or unusual species are always of interest to the scientists at the Alaska Fisheries Science Center. Preservation in 10% formalin solution is preferred for rare fish that are intended for long-term or museum collection. Freezing whole fish is preferred for fish that require species verification and are not rare. Frozen specimens also allow scientists to collect tissue samples, whereas the formalin does not.</p>
+<p>When unidentifiable or questionable species are encountered, identify them consistently (e.g., “Rockfish Unid”) and freeze one or two representative samples in a separate bag and include a collection label. A voucher must accompany all physical samples. For MACE, a voucher simply consists of a printed specimen label which includes a specimen #, cruise, ship, date, haul. The collection should include a digital photograph. The photograph(s) should include unique/identifiable features of the specimen. The specimen should be placed on the length board or background similar to help discern the size of features. For each unknown species, keep at least one voucher specimen per leg for later identification. You are encouraged to use the voucher process as a method to verify identifications, particularly for the rockfish and smelts.</p>
+<p>As soon as possible, email RACE/GAP Taxonomists with pictures to confirm identification or which method they would prefer the specimen to be preserved or not. Perhaps a simple picture will confirm the identification and there will be no need to collect the species as a voucher.</p>
+<p>RACE/GAP Taxonomist Contacts: Sarah Friedman sarah.friedman@noaa.gov Thaddaeus Buser thaddaeus.buser@noaa.gov</p>
+</section>
+<section id="special-requests" class="level3">
+<h3 class="anchored" data-anchor-id="special-requests">Special Requests</h3>
+<p>Special Studies requests will be accommodated on a “not to interfere” basis with the primary goals of the cruise. It is encouraged for all assigned to the fish lab to read the Special Studies requests. Special Studies summaries will be posted in the fish lab to look over as a cheat sheet while processing and the original Special Studies collection requests will be printed out for reading in the Chem lab. Document Special Studies collections during/after each haul (i.e., tally histology, fecundity, stomach samples, whole specimens collected). Eventually, collections will be summarized in the cruise report.</p>
+</section>
+</section>
+<section id="methots" class="level2">
+<h2 class="anchored" data-anchor-id="methots">Methot Trawl Catches</h2>
+<p>A Methot is a large rigid square framed net with a depressor and clump weight attached at the bottom to help keep the net vertical and is deployed from the stern using the OceoWinch. A flowmeter suspended in the upper corner of net measures the flow of water moving through the net and allows for the calculation of the volume of water sampled. The Methot is designed to catch larger zooplankton like euphausiids.</p>
+<p>See the BOC Associated Documents folder for Methot documents on setup and net photos and operations. The training video of Methot operations is also located in the BOC… G:of the CAVE and SOPsAssociated DocumentsSchematics and DocumentationProcedure_from DY Aug 2024.mp4</p>
+<section id="setup-and-sample-collection" class="level3">
+<h3 class="anchored" data-anchor-id="setup-and-sample-collection">Setup and Sample Collection:</h3>
 <ul>
-<li>Never twist your torso while lifting. Stay “nose between your toes.”</li>
-<li>Never lift a heavy item above shoulder level.</li>
-<li>Never carry a load that obstructs your vision.</li>
-<li>Never hold your breath while lifting, moving, and setting the load down.</li>
+<li>Always wear PPE on deck: float coat or life vest and hardhat. If helping with net operations consider wearing steel toe boots and work gloves.</li>
+<li>Secure the SBE39 plus and PX sensor to the inside bottom of the frame (alternatively the Furuno depth sensor). <em>Is there a place to connect to that is obvious? If not a picture on where to attach would be helpful.</em></li>
+<li>Clip the flowmeter to the monofilament loops in the upper corner, record initial flowmeter reading on notepad and let Acoustics Lab know which flowmeter serial number is in operation.</li>
+<li>Secure Methot codend to clips, to add an additional safeguard, wrap the clips with multiple passes of electrical tape.</li>
+<li>On retrieval, remove flowmeter and record initial and final flowmeter reading in CLAMS.</li>
+<li>Remove the SBE39 plus and <a href="#SBE-download">download</a>.</li>
+<li>Empty the codend into a large gray tub. Spray the net until the entire sample, all euphausiids, have been washed down into the tub. 2 people carry the tub into the slime lab.</li>
 </ul>
-<p>As you carry the load to its destination, you want to maintain good ergonomics. That means:</p>
+</section>
+<section id="processing-catch" class="level3">
+<h3 class="anchored" data-anchor-id="processing-catch">Processing Catch</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/methot_processing.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
 <ul>
-<li>Holding the load as close to your body as possible, level with your belly button</li>
-<li>Keeping your shoulders in line with your hips as you move – don’t twist your trunk</li>
-<li>Changing direction with your feet and leading with your hips</li>
-<li>Taking small steps and keeping a good grip with all your fingers</li>
+<li><p>First remove the large organisms (fish, squid, large jellyfish)</p></li>
+<li><p>Process as a normal trawl catch (i.e., sort/identify/weigh, and measure; subsample if necessary, CLAMS), Follow Table Tips for Length and Length/Weight guidelines.</p></li>
+<li><p>Empty the remaining contents through a sieve and into another tub.</p></li>
+<li><p>For <strong>Gelatinous zooplankton</strong>:</p>
+<ul>
+<li>Separate salps and tiny jellyfish
+<ul>
+<li>Salps: count and get bulk weight</li>
+<li>Jellyfish: identify using invert guide. Measure the bell diameters and get individual weights following <strong>Table Tips</strong>. Obtain the bell diameters by laying individuals out on the length board and measuring edge-to-edge.</li>
+</ul></li>
+</ul></li>
+<li><p>For <strong>Age-0 pollock (&lt; 10 cm) and larval forage fishes (i.e.&nbsp;eulachon, capelin)</strong>:</p>
+<ul>
+<li>Separate age-0 and larval fish species from invertebrates</li>
+<li>Measure the length only for a sample of 25 fish and record in CLAMS</li>
+</ul></li>
+<li><p>For <strong>Krill mix (What’s left)</strong>:</p>
+<ul>
+<li>Collect the <em>Measure</em> subsample of the krill mix:
+<ul>
+<li>Remove a small subsample (0.03-0.05 kg)</li>
+<li>Weigh/count and enter into CLAMS as Measure under the parent Mix.</li>
+</ul></li>
+<li>Collect the <strong>Preserve</strong> subsample of the krill mix
+<ul>
+<li>Before tossing, remove a preserve subsample (0.05-0.09 kg) and weigh it.<br>
+</li>
+<li>Record the weight on jar’s inside label, and on the outside label. Enter this weight into CLAMS as <strong>Preserve</strong> under the parent Mix.</li>
+<li>Fix the subsample in formalin</li>
+<li>Wash the subsample into a 32 oz. jar. The krill mix should occupy no more than 1/3 to 1/2 of the jar. Leave room to add preservative.</li>
+<li>Add 50 ml of formaldehyde (ca. 37% solution) and 25 ml saturated sodium borate buffer solution.</li>
+<li>Fill the rest of the jar with seawater.</li>
+<li>Gently invert the jar a few times so that it is well mixed</li>
+<li>Label jars inside and outside with: Cruise, Haul, Date, Gear Type, and Sample Weight</li>
+</ul></li>
+<li>Weigh the remaining mix as a <strong>Toss</strong> and discard once sampling is completed.</li>
+</ul></li>
+<li><p>Using masking tape, cut a small piece and cover the outside label on the lid of the jar. The outside label is not waterproof. Wrap electrical tape around the jar and lid to ensure it will remain securely closed.</p></li>
 </ul>
-<p>Setting down a heavy object is just as dangerous as picking it up. You’ll want to reverse the lifting process, following the same ergonomic lifting principles:</p>
+<hr>
+</section>
+</section>
+<section id="SBE-download" class="level2">
+<h2 class="anchored" data-anchor-id="SBE-download">SBE</h2>
 <ul>
-<li>Keep the load close to your body and your back straight or slightly arched</li>
-<li>Squat down, bending only at the knees and hips</li>
-<li>Tighten your stomach muscles (engage your core) as you lower yourself</li>
-<li>Kneel on one knee if necessary</li>
+<li><ol type="1">
+<li>After the haul is retrieved, the deck crew will give you the SBE. Rinse it in the fresh water sink. Remove and store the dummy plug and plug in the 4-pin connector.</li>
+</ol></li>
+<li><ol start="2" type="1">
+<li>Open CLAMS on Station 1 and make sure the current haul is selected.</li>
+</ol></li>
+<li><ol start="3" type="1">
+<li>Open the SBE Downloader on station 3 and it should be on the current haul. Click “connect”. <img src="images/sbe_downloader_VI.png" class="img-fluid" style="width:50.0%"></li>
+</ol></li>
+<li><ol start="4" type="1">
+<li>Once the dialog is open and you see the downloader logging data click on “stop logging”. <img src="images/sbe_downloader_VII.png" class="img-fluid" style="width:50.0%"></li>
+</ol></li>
+<li><ol start="5" type="1">
+<li>Once the dialog box shows the SBE has stopped logging data click on “download”. <img src="images/sbe_downloader_VIII.png" class="img-fluid" style="width:50.0%"></li>
+</ol></li>
+<li><ol start="5" type="1">
+<li>A prompt will appear asking the location where the SBE was mounted. Select the headrope for the LFS midwater net or footrope for the Methot net. <img src="images/sbe_downloader_IX.png" class="img-fluid" style="width:50.0%"></li>
+</ol></li>
+<li><ol start="6" type="1">
+<li>Once “OK” is pressed it will begin downloading the SBE data to the database. Once the d=Downloader reaches 100% it will beep and then you can click the “done” button to close the Downloader. If left unattended after downloaded the SBE Downloader app will timeout and disconnect, that’s fine! You can close the program and all is good.</li>
+</ol></li>
 </ul>
 
 
@@ -709,8 +949,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./physical_data.html" class="pagination-link" aria-label="physical_data.html">
-        <span class="nav-page-text"><span class="chapter-title">physical_data.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./data_verification_clams.html" class="pagination-link" aria-label="QA/QC">
+        <span class="nav-page-text"><span class="chapter-title">QA/QC</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

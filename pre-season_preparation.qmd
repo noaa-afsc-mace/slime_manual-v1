@@ -1,0 +1,43 @@
+# Pre-Season Preparation
+
+This is a list of tasks related to the slime lab that should be completed before gear trials at the start of a survey season.
+
+## A. Equipment Checklist
+
+Gear Inventory (MACE loading and shipping) is a rolling spreadsheet maintained through Google Sheets to track and inventory gear shipped to and from Alaska. [Click here to open the Google Sheet]({{< meta params.gear_url >}}){target="_blank"}
+
+
+## B. Special Study Supplies
+
+Pre-cruise preparation includes soliciting Special Studies requests for all surveys during the upcoming year. In November, the MACE Special Collections Request form is emailed to contacts on the special_studies_announcement_list which is found in the `G:\special studies` folder under the last survey year. The announcement list is a living document in which new contacts are added and old or invalid email addresses are deleted.
+
+After they are received, Special Study requests are put in a subfolder in `G:\special studies` by year, then by either Winter or Summer. Information should include:
+1. Project goals with some background information.
+2. Specific sampling instructions/procedures which include:
+    * storage requirements. 
+    * time and space requirements.
+    * specific details of any activities that may impact vessel/MACE personnel or equipment.
+3. When and how supplies, chemicals, and samples will be shipped to and from the vessel.
+4. A chemical inventory.    
+
+## C. Sampling Requirements
+
+Obtain information on sampling requirements from stock assessment authors. Use this to create 'Table Tips'.
+
+::: {.callout-note appearance="simple"}
+## 📝 Draft Question: Equipment Calibration
+Does it make sense to provide a quick run down of per-cruise calibrations/ testing of wet lab equipment in this manual (i.e. scales, length boards, SBEs)?
+:::
+
+## Equipment Calibration
+
+### SBE
+MACE has three [SBE 39plus Temperature (Depth) recorders](other manuals/SBE39plusrevB.pdf){target="_blank"}. These are sent in for calibration every other year. This is typically coordinated with GAP. For years when they are not sent in, the batteries should be replaced prior to gear trials. They each take 4 AA 3.6V lithium batteries. To replace the batteries unscrew the probe end. This should be possible to do by hand. Gently pull out until the battery compartment is accessible. Try not to add additional twists to the wires. Replace batteries and screw end back to hand tightness.
+
+![](images/SBE39plus.JPG){width=100% fig-align="center"}
+
+
+::: {.callout-note appearance="simple"}
+## 📝 Draft Question: Age and Growth
+Does organizing the age and growth supplies fall under this manual?
+:::

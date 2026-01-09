@@ -1,0 +1,31 @@
+# QA/QC
+
+A QA/QC for each haul can be conducted. 
+
+::: {.callout-warning appearance="minimal"}
+**This is in progress** I just copied over some screen grabs that Matthew put together. Need to work on some text describing them.
+:::
+
+
+### Haul Profile
+
+![](images/qaqc_haul_profile.png){width=100% fig-align="center"}
+
+
+## Catch Composition
+![](images/qaqc_catchcomp.png){width=100% fig-align="center"}
+
+## Specimen Summary
+![](images/qaqc_specimensummary.png){width=100% fig-align="center"}
+
+## Pollock Length Frequencies
+![](images/qaqc_lengthfreqs.png){width=100% fig-align="center"}
+
+## Pollock Maturities by Length
+![](images/qaqc_maturities.png){width=100% fig-align="center"}
+
+## Pollock Length Weights
+![](images/qaqc_lengthweights.png){width=100% fig-align="center"}
+
+## 
+

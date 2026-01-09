@@ -1,0 +1,67 @@
+# Gear Trials
+
+Prior to the start of a survey season the fish and chem lab can be set-up and equipment checked. This typically occurs during the gear trials. 
+
+## A. Fish Lab
+
+### Equipment
+If not installed already, under the direction of MACE IT unpack and connect the [length boards](#length-boards) and the [Marel scales](#marel-scales) (specimen and basket scales) at the sampling stations and test the equipment with CLAMS.
+
+Set up the CamTrawl battery charger in the chem lab and test both CamTrawl units by deploying them separately on a trawl and downloading them. Please see these pdfs for information on CamTrawl [battery charging](other manuals/Charging camTrawl Batteries.pdf){target="_blank"} and the [quick guide](other manuals/Camtrawl quick guide Feb 2024.pdf){target="_blank"} for operations.
+
+During Gear Trials, do an in-water deployment test with the SBE (temperature (depth) data recorder). See these links for directions on SBE [initiation](pre-haul_preparation.qmd#SBE-prep){target="_blank"} and [downloading](sampling_procedures.qmd#SBE-download){target="_blank"}.
+
+After you’ve set up the fish lab (generally, during gear trials or at the start of the summer survey), test out all the scales, length boards, and CLAMS stations. The safest way to do this is to confirm with MACE IT that the CLAMS active survey is ‘SS Fake Ship’- this ensures that test data doesn’t contaminate real survey data. Check with the IT staff to set this up. Once you have set the CLAMS survey to SS Fake Ship, go through a simulated haul in the fish lab (see details on standard haul processing tasks below) remember to check all protocols are correct for this survey including any additional protocol needs from Special Studies (fin clips, stomachs etc.). 
+
+While not being used, store and secure the [load cells](#load-cells) in a dry yet accessible location like the ready room. Charge and store the load cell batteries inside the Chem lab. 
+
+### Cheat Sheets
+* Post Table Tips in the fish lab on inboard wall near work station 1.
+* Post Special Studies summaries and specific instructions and prepare any necessary. 
+* Post the large MACE ID poster on the wall nearest the ready room. 
+* Post maturity code descriptions on wall near CLAMS station 4.
+
+### Other Gear
+* Set out and arrange fish lab gloves, nitrile gloves, work gloves, and staff raingear in the ready room area.
+* Set out otolith vials/caps, scalpels, tweezers, knives, pencils in a tub next to sink in fish lab.
+* Prepare oto juice - (instructions??)
+
+## B. Chem Lab
+* Set out essential waterproof identification books and laminated id cheat sheets (e.g. myctophid and jellyfish) in a location in the chem lab that is easily accessible.
+* Unpack totes of office supplies and excess fish lab sampling tools into drawers. Organize and label drawers by supply type for ease of access (e.g. Office Supplies, Fish Lab, Bags, Tapes and Bungees etc.). 
+
+## C. Otoliths
+Prepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes. Labeled vials are arranged Left to Right, Top to Bottom (No Zigzag) in Styrofoam trays. Write the cruise info using permanent marker on the otolith boxes: (i.e. - DY2401 where DY = ship name Dyson, 24 = last 2 digits of year, 01 = cruise #), vial barcode # range, and the species collected.
+
+
+
+## Length Boards {#length-boards}
+If lengths are not measuring correctly you may need to [re-calibrate](other manuals/Calibrating Ichthystick.pdf){target="_blank"} the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration):
+* Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
+* The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
+* The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
+
+## Weighing Scales {#marel-scales}
+Locate the scale calibration weight sets in the Chem Lab floor cabinet aft of the computers and complete a calibration followed by a calibration test. 
+
+A scale calibration is performed by: 
+
+1. Simultaneously pressing the MENU and ZERO keys:
+
+  * Wait until the scale asks for a reference weight – May take 15 seconds. “Put 20” or “Put 2” will display.
+
+2. Place the reference weight (i.e. 20 or 2 kg weight) on the platform then press the PRINT key:
+
+  * The message “===” appears on the display while the calibration takes place.
+  * When the calibration is complete, the message “Fit nn” appears.
+  *	Values above 25 indicate a poor calibration; repeat calibration if needed.
+  
+After a calibration has been completed a calibration test should be conducted at the start of each field season. The test weights for the calibration test should remain stored in a dry secure location after use. In short, the calibration test is the placement of a full range of weights on the scale and recording the values. The scale calibration test sheet [scale calibration test sheet]({{< meta params.scale_cal_test_url >}}){target="_blank"} has a tab for each scale and provides a list of the weights to be tested. The results from each scale should be documented on its tab along with the date of the test.
+
+
+## Load Cells {#load-cells}
+Compare the crane scale readouts to the load cell weights. Have both cranes (starboard and port) lift an object on the back deck. This could be a codend or any gear. The weight read out will display in the wet lab by clams station 1 and on the crane. Attach the loadcell and weigh the same object, compare for accuracy. If the crane weights are not similar to the loadcell do not use the crane readouts for fishing operations. See section Splitter Bin Vs. Sorting Table? for safely using the loadcell during fishing operations.
+
+## SBE {#SBE}
+The SBE should be good to go after the [Pre-Season Preparations](pre-season_preparation.qmd#SBE).
+

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>data_verification_clams – Slime Lab Manual</title>
+<title>QA/QC – Slime Lab Manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./additional_references.html" rel="next">
-<link href="./physical_data.html" rel="prev">
+<link href="./post-survey.html" rel="next">
+<link href="./sampling_procedures.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data_verification_clams.html"><span class="chapter-title">data_verification_clams.html</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data_verification_clams.html"><span class="chapter-title">QA/QC</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -112,17 +112,22 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Welcome to the Slime Lab</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pre-cruise_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Cruise Preparation</span></a>
+  <a href="./pre-season_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Season Preparation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pre-survey_preparation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Pre-Survey Preparation</span></a>
+  <a href="./gear_trials.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Gear Trials</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./calibration.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Calibration</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -137,35 +142,127 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./physical_data.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">physical_data.html</span></a>
+  <a href="./data_verification_clams.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">QA/QC</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data_verification_clams.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">data_verification_clams.html</span></a>
+  <a href="./post-survey.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Post Sampling and Survey Cleanup</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./additional_references.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Volunteer Glossary</span></a>
+  <a href="./additional_references.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Additional References</span></a>
   </div>
 </li>
     </ul>
     </div>
-</nav>
+<div class="quarto-sidebar-footer"><div class="sidebar-footer-item">
+<p><img src="images/MACE_logo_bw_lg.png" class="img-fluid" width="200"></p>
+</div></div></nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#haul-profile" id="toc-haul-profile" class="nav-link active" data-scroll-target="#haul-profile">Haul Profile</a></li>
+  <li><a href="#catch-composition" id="toc-catch-composition" class="nav-link" data-scroll-target="#catch-composition">Catch Composition</a></li>
+  <li><a href="#specimen-summary" id="toc-specimen-summary" class="nav-link" data-scroll-target="#specimen-summary">Specimen Summary</a></li>
+  <li><a href="#pollock-length-frequencies" id="toc-pollock-length-frequencies" class="nav-link" data-scroll-target="#pollock-length-frequencies">Pollock Length Frequencies</a></li>
+  <li><a href="#pollock-maturities-by-length" id="toc-pollock-maturities-by-length" class="nav-link" data-scroll-target="#pollock-maturities-by-length">Pollock Maturities by Length</a></li>
+  <li><a href="#pollock-length-weights" id="toc-pollock-length-weights" class="nav-link" data-scroll-target="#pollock-length-weights">Pollock Length Weights</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/edit/main/data_verification_clams.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">QA/QC</span></h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
+</header>
+
+
+<p>A QA/QC for each haul can be conducted.</p>
+<div class="callout callout-style-simple callout-warning no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>This is in progress</strong> I just copied over some screen grabs that Matthew put together. Need to work on some text describing them.</p>
+</div>
+</div>
+</div>
+<section id="haul-profile" class="level3">
+<h3 class="anchored" data-anchor-id="haul-profile">Haul Profile</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_haul_profile.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="catch-composition" class="level2">
+<h2 class="anchored" data-anchor-id="catch-composition">Catch Composition</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_catchcomp.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="specimen-summary" class="level2">
+<h2 class="anchored" data-anchor-id="specimen-summary">Specimen Summary</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_specimensummary.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="pollock-length-frequencies" class="level2">
+<h2 class="anchored" data-anchor-id="pollock-length-frequencies">Pollock Length Frequencies</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_lengthfreqs.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="pollock-maturities-by-length" class="level2">
+<h2 class="anchored" data-anchor-id="pollock-maturities-by-length">Pollock Maturities by Length</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_maturities.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="pollock-length-weights" class="level2">
+<h2 class="anchored" data-anchor-id="pollock-length-weights">Pollock Length Weights</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qaqc_lengthweights.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -590,13 +687,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./physical_data.html" class="pagination-link" aria-label="physical_data.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">physical_data.html</span></span>
+      <a href="./sampling_procedures.html" class="pagination-link" aria-label="Sampling Procedures">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Sampling Procedures</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./additional_references.html" class="pagination-link" aria-label="Volunteer Glossary">
-        <span class="nav-page-text"><span class="chapter-title">Volunteer Glossary</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./post-survey.html" class="pagination-link" aria-label="Post Sampling and Survey Cleanup">
+        <span class="nav-page-text"><span class="chapter-title">Post Sampling and Survey Cleanup</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -605,4 +702,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions"><ul><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/edit/main/data_verification_clams.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/edit/main/data_verification_clams.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/DavidBryan-NOAA/slime_manual-v1/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

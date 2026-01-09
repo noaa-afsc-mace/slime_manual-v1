@@ -4,25 +4,28 @@ project:
   
 params:
   gear_url: "https://docs.google.com/spreadsheets/d/12_39Ke-rfvQZLH6ZlejbbX5bNRX2fFNvNkkVWe21Hp8/edit?gid=1672489246#gid=1672489246" 
+  scale_cal_test_url: "https://docs.google.com/spreadsheets/d/1IFuS-9W8RfwYoiW8o6t_PSOgGjW957mS5xxgdI9YVB4/edit?gid=0#gid=0"
 
 book:
   title: "Slime Lab Manual"
   author: "David Bryan"
-  date: "11/20/2025"
+  date: "1/5/2026"
   downloads: [pdf]
   chapters:
     - index.qmd
-    - pre-cruise_preparation.qmd
-    - pre-survey_preparation.qmd
+    - pre-season_preparation.qmd
+    - gear_trials.qmd
+    - calibration.qmd
     - pre-haul_preparation.qmd
     - sampling_procedures.qmd
-    - physical_data.qmd
     - data_verification_clams.qmd
+    - post-survey.qmd
     - additional_references.qmd
   repo-url: https://github.com/DavidBryan-NOAA/slime_manual-v1/
   repo-actions: [edit, issue]
-
-
+  sidebar:
+    footer: |
+      ![](images/MACE_logo_bw_lg.png){width=200px}
 
 format:
   html:

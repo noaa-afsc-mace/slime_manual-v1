@@ -1,3 +1,5 @@
+# Additional References
+
 ## Volunteer Glossary {#volun-glossary}
 Glossary of Roles and Terms Relevant to MACE surveys aboard NOAA Ships
 A non-exhaustive list of people, places and things relevant to surveys on the NOAA ship Oscar Dyson.
@@ -78,3 +80,38 @@ Methot- Square-frame net designed to sample krill and other large zooplankton. D
 * **Centerboard**- Extends 
 * **Transducers aka ‘ducers or echosounders**- 18, 38, 70, 120, 200, and 330 kHz acoustic transducers that are mounted on the bottom of the ship’s centerboard and send active sound waves (pings) towards the bottom of the ocean.
 * **Camtrawl**- the camera system that we attach to the LFS trawl. It is a stereo camera, which means we can get fish lengths from it. It also lets us know where fish are in the water column.
+
+
+## Lifting techniques {#lifting}
+OSHA Proper Lifting Techniques: Safe Lifting Ergonomics
+https://www.osha.com/blog/proper-lifting-techniques
+
+Safe lifting involves:
+
+* Standing as close to the load as possible
+* Planting your feet shoulder-width apart with one foot slightly ahead of the other
+* Bending at the hips and knees only until you're deep in a squatting position
+* Keeping your head up and straight with your shoulders back to keep your back straight
+* Holding the load close to your body at waist height
+* Engaging your core muscles as you push against the ground and straighten your legs
+
+Here are a few essential don'ts to keep in mind for good lifting ergonomics:
+
+* Never twist your torso while lifting. Stay "nose between your toes."
+* Never lift a heavy item above shoulder level.
+* Never carry a load that obstructs your vision.
+* Never hold your breath while lifting, moving, and setting the load down.
+
+As you carry the load to its destination, you want to maintain good ergonomics. That means:
+
+* Holding the load as close to your body as possible, level with your belly button
+* Keeping your shoulders in line with your hips as you move – don't twist your trunk
+* Changing direction with your feet and leading with your hips
+* Taking small steps and keeping a good grip with all your fingers
+
+Setting down a heavy object is just as dangerous as picking it up. You'll want to reverse the lifting process, following the same ergonomic lifting principles:
+
+* Keep the load close to your body and your back straight or slightly arched
+* Squat down, bending only at the knees and hips
+* Tighten your stomach muscles (engage your core) as you lower yourself
+* Kneel on one knee if necessary
