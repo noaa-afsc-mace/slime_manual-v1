@@ -208,7 +208,7 @@ A Methot is a large rigid square framed net with a depressor and clump weight at
 
 See the BOC Associated Documents folder for Methot documents on setup and net photos and operations.
 The training video of Methot operations is also located in the BOC…
-G:\Book of the CAVE and SOPs\BOC\BOC Associated Documents\Net Schematics and Documentation\Methot\Methot Procedure_from DY Aug 2024.mp4
+`G:\Book of the CAVE and SOPs\BOC\BOC Associated Documents\Net Schematics and Documentation\Methot\Methot Procedure_from DY Aug 2024.mp4`
 
 
 ### Setup and Sample Collection:
