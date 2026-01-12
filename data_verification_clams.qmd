@@ -3,7 +3,7 @@
 A QA/QC for each haul can be conducted. 
 
 ::: {.callout-warning appearance="minimal"}
-**This is in progress** I just copied over some screen grabs that Matthew put together. Need to work on some text describing them.
+**This is in progress** I just copied over some screen grabs that Matthew put together. Need to work on some text describing them. Perhaps this is the place we would want to describe the procedures for reviewing camtrawl images.
 :::
 
 

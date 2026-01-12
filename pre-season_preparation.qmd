@@ -14,15 +14,17 @@ Pre-cruise preparation includes soliciting Special Studies requests for all surv
 After they are received, Special Study requests are put in a subfolder in `G:\special studies` by year, then by either Winter or Summer. Information should include:
 1. Project goals with some background information.
 2. Specific sampling instructions/procedures which include:
-    * storage requirements. 
-    * time and space requirements.
-    * specific details of any activities that may impact vessel/MACE personnel or equipment.
+
+* storage requirements 
+* time and space requirement
+* specific details of any activities that may impact vessel/MACE personnel or equipment
+    
 3. When and how supplies, chemicals, and samples will be shipped to and from the vessel.
 4. A chemical inventory.    
 
 ## C. Sampling Requirements
 
-Obtain information on sampling requirements from stock assessment authors. Use this to create 'Table Tips'.
+Obtain information on sampling requirements from stock assessment authors. Use this to create **Table Tips**.
 
 ::: {.callout-note appearance="simple"}
 ## 📝 Draft Question: Equipment Calibration

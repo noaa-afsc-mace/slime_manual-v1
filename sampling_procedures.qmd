@@ -7,7 +7,7 @@ Prior to beginning sampling, take time to consider physical saftey and ergonomic
 
 * Consider some pre sampling stretches to warm up muscles (link to GAP stretches).
 * The fish lab is wet and slippery, make sure that the non-slip floor mats are placed at all workstations.
-* Remember to limit basket weights to 20 kg to prevent injuries and practice safe [lifting techniques](aditional_references.qmd#lifting).
+* Remember to limit basket weights to 20 kg to prevent injuries and practice safe [lifting techniques](additional_references.qmd#lifting).
 * use two people to move heavy objects like the camtrawl or large totes of fish from the deck.
 
 ## Midwater or Bottom Trawl catches{#recording-catch}
@@ -58,7 +58,7 @@ Catches with a total catch weight of less than ~ 2,000 kg (2 tons) can be dumped
 * If the total catch exceeds the capacity of the deck “splitter” bin and the catch is not homogenous, splits should be repeated (with subsequent emptying of the bin) until the entire codend is empty. Alternately, the end of the codend has been pinched off at the thick strap and placed into the sorting table and the rest of the catch dumped overboard. This is not ideal but has happened due to excessive catch, poor weather conditions, and inexperienced crew preventing safe splitter bin operations.
 
 ### Shark or Marine Mammal
-If a large shark is caught please follow the [MACE protocol](other manuals/Shark_protocol_20230428.pdf) for its release. Remember to collect ___ measurements if possible.
+If a large shark is caught please follow the [MACE protocol](other manuals/Shark_protocol_20230428.pdf){target="_blank"} for its release. Remember to collect ___ measurements if possible.
 
 Follow the marine mammal protocol (?) if one is caught.
 
@@ -85,28 +85,28 @@ Once some of the catch has been allowed to flow onto the sorting belt, pause and
 When weighing baskets of selected species at the end of the sorting belt be mindful of the weight of the baskets. Repetitive heavy lifting of full baskets is discouraged at sea and may result in “repetitive stress/strain injuries.” Consider maintaining a maximum basket weight of ~20kg. It is encouraged to set aside **more** baskets that are **lighter** to make the lifting easier and **safer** for the fish lab **team**.
 :::
 
-A reminder that [everything in the catch gets weighed]{.underline}, then it is designated as being Measured, Counted or Tossed. Baskets that are retained for length/sex or biological sampling are designated “Measure”. Baskets that are weighed and “Tossed” are tossed over through the discard shoot. Baskets of target species are generally not “Counted”, this is typically reserved for catch species that we do not length (amphipods) or abundant larval fish such as Age-0 pollock. “Count” baskets may be discarded after the counted amount has been entered into CLAMS.
+A reminder that [everything in the catch gets weighed]{.underline}, then it is designated as being **"Measured"**, **"Counted"** or **"Tossed"**. Baskets that are retained for length/sex or biological sampling are designated **"Measure"**. Baskets that are weighed and **"Tossed"** are tossed over through the discard shoot. Baskets of target species are generally not **"Counted"**, this is typically reserved for catch species that we do not length (amphipods) or abundant larval fish such as Age-0 pollock. **"Counted"** baskets may be discarded after the counted amount has been entered into CLAMS.
 
 Digital species ID guides for [Fishes](other manuals/FishGuide2024_03_06.pdf){target="_blank"} and [Invertebrates](other manuals/invert_guide_vol1.pdf){target="_blank"} can be accessed by clicking on the links. A suite of hard copies of ID guide books can also be found in the Chem Lab.  
 
 ### Subsample selection
 Since weighing and measuring all individuals that have been sorted on the belt is not typically feasible (except for small hauls), a subsample of predominate species or species mixes is made. Subsamples can be taken from the targeted catch (often pollock or POP) and from the bycatch (everything else; often forage fishes). When the catch is subsampled, it must be random and representative of the whole catch.
 
-When taking a subsample, a proportion is weighed and **"Measured"** while the remainder is weighed and **"Tossed"**. The weights and numbers from the measured subsample are extrapolated in the database to represent the total weight and number of that species in the catch. The fish marked as **Measured** are also referred to as the biological sample.
+When taking a subsample, a proportion is weighed and **"Measured"** while the remainder is weighed and **"Tossed"**. The weights and numbers from the measured subsample are extrapolated in the database to represent the total weight and number of that species in the catch. The fish marked as **"Measured"** are also referred to as the biological sample.
 
-If alternative instructions are directed, (e.g., Special Studies) an additional option is weighed and **“Counted”** (sometimes larval fish, Age-0 and Age-1 pollock). 
+If alternative instructions are directed, (e.g., Special Studies) an additional option is weighed and **"Counted"** (sometimes larval fish, Age-0 and Age-1 pollock). 
 
-The size of the **Measured** biological sample depends on the species or the species mixture. Refer to the **Table Tips** posted on the wall for guidance. Instead of counting individual specimens for the biological sample, weight can be used. For example, if Table Tips recommends 300 adult pollock for biological sample, and you you count 30 pollock in a basket weighing 20kg, instead of counting 300 pollock you could mark 10 baskets as **"Measure"** and **"Toss"** the remainder. After the appropriate number of baskets for the biological sample have been weighed, recorded, and set aside for processing, all fish in excess of the selected biological sample may be weighted and selected as **“Toss”** and discarded overboard. 
+The size of the **"Measured"** biological sample depends on the species or the species mixture. Refer to the **Table Tips** posted on the wall for guidance. Instead of counting individual specimens for the biological sample, weight can be used. For example, if **Table Tips** recommends 300 adult pollock for biological sample, and you you count 30 pollock in a basket weighing 20kg, instead of counting 300 pollock you could mark 10 baskets as **"Measured"** and **"Tossed"** the remainder. After the appropriate number of baskets for the biological sample have been weighed, recorded, and set aside for processing, all fish in excess of the selected biological sample may be weighted and selected as **"Tossed"** and discarded overboard. 
 
 ### Biological Sample
-The subsample marked as **"Measure"** constitutes the biological sample. The biological sample is subdivided into either **Specimens** that include any fish that needs to be cut open and **Length/Weights** that include any organism in which only a length and weight is needed. **Specimens** include pollock theat need to have otoliths taken, pollock and any other fish that need to have sex and/or maturity status recorded, and special study species. When both **Specimens** and **Length/Weights** are required they should be randomly selected from the biological sample. This can be done by randomly selecting the appropriate number of baskets of fish for each collection or alternatively, during a random basket collection, select the number of fish required for the **Specimens** sample by using a zigzag pattern; on the sorting belt, the zigzag method involves collecting all fish in a left to right or right to left zigzag pattern until the required number of fish has been reached. Separately, on a different random basket collection repeat the zigzag method for the **Length/Weight** sample.
+The subsample marked as **"Measured"** constitutes the biological sample. The biological sample is subdivided into either **"Specimens"** that include any fish that needs to be cut open and **"Length/Weights"** that include any organism in which only a length and weight is needed. **"Specimens"** include pollock theat need to have otoliths taken, pollock and any other fish that need to have sex and/or maturity status recorded, and special study species. When both **"Specimens"** and **"Length/Weights"** are required they should be randomly selected from the biological sample. This can be done by randomly selecting the appropriate number of baskets of fish for each collection or alternatively, during a random basket collection, select the number of fish required for the **"Specimens"** sample by using a zigzag pattern; on the sorting belt, the zigzag method involves collecting all fish in a left to right or right to left zigzag pattern until the required number of fish has been reached. Separately, on a different random basket collection repeat the zigzag method for the **"Length/Weight"** sample.
 
 ### Target Species Measure Subsample
 
 ![](images/sorting_pollock_directions.png){width=100% fig-align="center"}
 
 
-Always take an equal portion for the **Measure** subsample from the first, middle and last section of the catch by attempting an adaptable systematic random design, collecting every X basket. To help create the random design visually inspect the fullness and species composition of the sorting table before processing the catch. For example, when the fish table is half to three fourths full of predominantly average sized Adult Pollock, collecting every sixth basket is a great place to start. Keep in mind, random sampling is an adaptable practice; therefore, if more or less fish are needed, you may increase or decrease the collection frequency of baskets to obtain the ideal sample size. If less fish are needed, consider the option of reducing the basket fullness to reduce fish and maintain the sample design.
+Always take an equal portion for the **"Measured"** subsample from the first, middle and last section of the catch by attempting an adaptable systematic random design, collecting every X basket. To help create the random design visually inspect the fullness and species composition of the sorting table before processing the catch. For example, when the fish table is half to three fourths full of predominantly average sized Adult Pollock, collecting every sixth basket is a great place to start. Keep in mind, random sampling is an adaptable practice; therefore, if more or less fish are needed, you may increase or decrease the collection frequency of baskets to obtain the ideal sample size. If less fish are needed, consider the option of reducing the basket fullness to reduce fish and maintain the sample design.
 
 When estimating the number of baskets/target species to set aside it is a general practice to count the target species in the first basket and reflect upon that total with the posted amounts on the Table Tips. For example, if 30 fish are counted in the first basket and the Table Tips requests 30 pollock for otoliths, 20 for sexed length/weight/maturity and 250 for length only, set aside roughly ~ 1 basket for otoliths, 1 basket for sexed length/weight/maturity, and 9 baskets, for lengths. If using a basket, as subsampling tool all the fish most be measured within that basket. If there way more than needed, dump the fish out and collect a random sample from those for your measurement.
 
@@ -122,7 +122,7 @@ Repeat the basket dump method until reaching the desired sample size.
 
 ### Mixes and Submixes
 
-Eulachon, juvenile pollock, and other forage fish are often caught together in Shelikof Strait. When a catch of multiple similar species cannot be separated to species in a reasonable amount of time at the sorting belt, create a “Mix” by selecting the species as “Mix”. The mix category can be created to encompass all of these individuals. In these cases, a portion of the mix needs to be further sorted, weighed and for species composition and measurements of the Mix. The rest of mix can be weighed and **Tossed**. Similar to collecting a subsample to **Measure** as described above, collect an equal portion of the “Mix” from the first, middle and last section to sort, weigh and measure. Unlike the subsample, we save a couple baskets to the side until the entire haul has been processed from the sorting table. The saved “Mix” basket(s) intended for species composition representation should be weighed and selected as a **Measure**. Similar to a subsample, the weights and numbers of the species composition of the “Mix” will be extrapolated in the database to represent the total weight and number for all of those species in the catch.  See the **Table Tips** example below “Handling mixes”, this will also be posted in the fish lab. Sort the mix from the representative basket(s) by species, and weigh the separated species and remember that the parent sample is now the “Mix” and not the “Sorting Table.” The remaining “Mix” baskets from the sorting table should also be weighted and “Tossed.” 
+Eulachon, juvenile pollock, and other forage fish are often caught together in Shelikof Strait. When a catch of multiple similar species cannot be separated to species in a reasonable amount of time at the sorting belt, create a “Mix” by selecting the species as “Mix”. The mix category can be created to encompass all of these individuals. In these cases, a portion of the mix needs to be further sorted, weighed and for species composition and measurements of the Mix. The rest of mix can be weighed and **"Tossed"**. Similar to collecting a subsample to **"Measured"** as described above, collect an equal portion of the “Mix” from the first, middle and last section to sort, weigh and measure. Unlike the subsample, we save a couple baskets to the side until the entire haul has been processed from the sorting table. The saved “Mix” basket(s) intended for species composition representation should be weighed and selected as a **"Measured"**. Similar to a subsample, the weights and numbers of the species composition of the “Mix” will be extrapolated in the database to represent the total weight and number for all of those species in the catch.  See the **Table Tips** example below “Handling mixes”, this will also be posted in the fish lab. Sort the mix from the representative basket(s) by species, and weigh the separated species and remember that the parent sample is now the “Mix” and not the “Sorting Table.” The remaining “Mix” baskets from the sorting table should also be weighted and “Tossed.” 
 
 ![](images/handling-mixes.png){width=100%}
 
@@ -133,7 +133,7 @@ Eulachon, juvenile pollock, and other forage fish are often caught together in S
 ### Length Frequency
 ![](images/pollock-in-a-row.png){width=100%}
 
-Length frequency data for each haul is collected at the species specific amounts identified in the **Table Tips**. Length frequency samples must be randomly selected. In general, lengths are collected from approximately 300 pollock per haul; 250 of those are lengths only as described here, and 50 more come from **Specimen** samples that include the otolith collection and additional length/weight/sex/maturity collections. Length frequency are typically collected from 35 (10 length/weights) non-target species (see “Subsample selection” section or **Table Tips** for target species divided into different size classes and length frequency goals).
+Length frequency data for each haul is collected at the species specific amounts identified in the **Table Tips**. Length frequency samples must be randomly selected. In general, lengths are collected from approximately 300 pollock per haul; 250 of those are lengths only as described here, and 50 more come from **"Specimens"** samples that include the otolith collection and additional length/weight/sex/maturity collections. Length frequency are typically collected from 35 (10 length/weights) non-target species (see “Subsample selection” section or **Table Tips** for target species divided into different size classes and length frequency goals).
 
 ![](images/length_board.jpg){width=100%}
 The Ichthysticks, also known as length boards, are used to magnetically measure the length of specimens into CLAMS. See posted **Table Tips** for examples of length types and species. For fish, place the tip of the snout at 0 (against the vertical panel at the left end of the measuring board) and position the pointed end of the stylus at the tip of the middle rays of the caudal fin (fork length). CLAMS will ask for specific lengths for each species. Keep the basket as the sampling unit (i.e., if you start sampling a basket, finish the basket) and avoid incidental hand selection biases.
@@ -146,7 +146,7 @@ All length boards are calibrated prior to entering the field (i.e. during Gear T
 
 ### Specimen Samples: Otoliths, Sex, Maturity, length/Weight, Gonad Weight, and Special Studies Sampling
 
-In addition to unsexed length measurements described above, **Specimen** samples including the collection of otoliths, sex, maturity, specimen weight, and gonad weight is another slime team collaboration that involves a minimum of 2 people. Depending on staffing, it may be preferable to complete measuring the lengths of all the target species and non-target species before proceeding to this data collection. The collection of length, weight, sex, maturity, and gonad weight is referred to as the GSI (gonadosomatic index) protocol.The collection of otoliths as the otolith protocol. 
+In addition to unsexed length measurements described above, **"Specimens"** samples including the collection of otoliths, sex, maturity, specimen weight, and gonad weight is another slime team collaboration that involves a minimum of 2 people. Depending on staffing, it may be preferable to complete measuring the lengths of all the target species and non-target species before proceeding to this data collection. The collection of length, weight, sex, maturity, and gonad weight is referred to as the GSI (gonadosomatic index) protocol.The collection of otoliths as the otolith protocol. 
 
 The GSI protocol can be completed efficiently by 1 person that has experience with target species (pollock) maturities.
 
@@ -160,7 +160,7 @@ A reminder; both pollock specimen protocols in CLAMS collect GSI data, however o
 Should we include a description on what a "protocol" is?
 :::
 
-From the “Measure” baskets randomly placed aside for **Specimens** (i.e. otoliths and GSI) collect the following data in CLAMS under the Specimen tab:
+From the “Measure” baskets randomly placed aside for **"Specimens"** (i.e. otoliths and GSI) collect the following data in CLAMS under the Specimen tab:
 a. fork length
 b. specimen weight
 c. sex and maturity stage (refer to Maturity stages posted in fish lab) 
@@ -217,7 +217,7 @@ The training video of Methot operations is also located in the BOC…
 *	Clip the flowmeter to the monofilament loops in the upper corner, record initial flowmeter reading on notepad and let Acoustics Lab know which flowmeter serial number is in operation.
 *	Secure Methot codend to clips, to add an additional safeguard, wrap the clips with multiple passes of electrical tape.
 *	On retrieval, remove flowmeter and record initial and final flowmeter reading in CLAMS.
-*	Remove the SBE39 plus and [download](#SBE-download).
+*	Remove the SBE39 plus and [download](#SBE-download){target="_blank"}.
 *	Empty the codend into a large gray tub. Spray the net until the entire sample, all euphausiids, have been washed down into the tub. 2 people carry the tub into the slime lab.
 
 ### Processing Catch
@@ -239,19 +239,19 @@ The training video of Methot operations is also located in the BOC…
   * Measure the length only for a sample of 25 fish and record in CLAMS
 
 * For **Krill mix (What’s left)**:
-  *	Collect the *Measure* subsample of the krill mix:
+  *	Collect the *"Measured"* subsample of the krill mix:
     * Remove a small subsample (0.03-0.05 kg) 
     * Weigh/count and enter into CLAMS as Measure under the parent Mix.
-  * Collect the **Preserve** subsample of the krill mix
+  * Collect the **"Preserve"** subsample of the krill mix
     * Before tossing, remove a preserve subsample (0.05-0.09 kg) and weigh it.  
-    * Record the weight on jar’s inside label, and on the outside label.  Enter this weight into CLAMS as **Preserve** under the parent Mix.
+    * Record the weight on jar’s inside label, and on the outside label.  Enter this weight into CLAMS as **"Preserve"** under the parent Mix.
     * Fix the subsample in formalin 
     * Wash the subsample into a 32 oz. jar. The krill mix should occupy no more than 1/3 to 1/2 of the jar. Leave room to add preservative.
     * Add 50 ml of formaldehyde (ca. 37% solution) and 25 ml saturated sodium borate buffer solution.
     * Fill the rest of the jar with seawater.
     * Gently invert the jar a few times so that it is well mixed
     * Label jars inside and outside with: Cruise, Haul, Date, Gear Type, and Sample Weight
-  * Weigh the remaining mix as a **Toss** and discard once sampling is completed.
+  * Weigh the remaining mix as a **"Tossed"** and discard once sampling is completed.
 
 * Using masking tape, cut a small piece and cover the outside label on the lid of the jar. The outside label is not waterproof. Wrap electrical tape around the jar and lid to ensure it will remain securely closed.
 

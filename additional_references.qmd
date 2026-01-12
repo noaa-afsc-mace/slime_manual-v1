@@ -1,4 +1,6 @@
 # Additional References
+This section includes a [Volunteer Glossary](#volun-glossary) along with somne [lifting techniques](#lifting). We could place some more info here as needed. 
+
 
 ## Volunteer Glossary {#volun-glossary}
 Glossary of Roles and Terms Relevant to MACE surveys aboard NOAA Ships

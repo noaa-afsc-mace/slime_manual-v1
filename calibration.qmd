@@ -1,4 +1,4 @@
-# Calibration
+# Acoustic Calibration
 
 Fish lab personnel assist with acoustic calibration. If the vessel's large CTD is not working or if staff is not available the CastAway-CTD (aka "football") can be used. This piece of equipment is stored in the Chem Lab.
 
@@ -18,7 +18,7 @@ a.	Remove the rubber outer case and unscrew bottom end cap to insert batteries, 
 5.	After the cast is complete, touch the contact on the bottom right again to end the recording. 
 
 
-[CastAway CTD Manual](other_manuals/CastAway CDT Users Manual.pdf)
+[CastAway CTD Manual](other_manuals/CastAway CDT Users Manual.pdf){target="_blank"}
 
 
 ![](images/castaway.png){width=50% fig-align="center"}
