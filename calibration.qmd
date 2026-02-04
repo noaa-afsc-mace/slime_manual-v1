@@ -6,6 +6,9 @@ Fish lab personnel assist with acoustic calibration. If the vessel's large CTD i
 **More Info Needed:** I am thinking some instructions on the calibration spheres and downriggers would be nice.
 :::
 
+## Cleaning Calibration Spheres
+Part of the calibration set-up involves cleaning the two WC spheres (38.1 mm and 22 mm). The spheres are cleaned by placing them in the Branson ultrasonic cleaner for 60 minutes. If cleaning both at the same time make sure they do not touch.  Fill the cleaner with tap water and then add a cap full of the cleaning concetrate. After plugged the unit in, flip the on switch and then press the on/off button (it will start makign a buzzing noise). The cleaner should be set for 25 C and 60 minutes. The spheres can sit in the cleaner, but prior to running the calibration they should be cooled in a bucket of seawater. Prio to deplying they should be dipped into a cup of water with a squirt or two of dish soap.
+
 
 ## CastAway-CTD
 For select purposes the CastAway-CTD can be used as alternative to the large CTDs. The larger CTD may require 3-4 ship crew to safely cast over the “Hero deck” (side sampling station) while the small football CTD only requires 1 individual. To cast the CastAway-CTD secure it to the railing on the “Hero deck” and lower down to 30m. Communicate with the Bridge before and after lowering anything into the water from the ship.
