@@ -36,7 +36,7 @@ Trawls and Methots will be equipped with an SBE, commonly referred to as the  �
 ![](images/sbe_downloader_IV.png){width=50% fig-align="center"}
 
 
-5. Let the program run until you can see that the SBE is logging data every 3 seconds. Then click on “Done”. This will quit the SBE downloader and you can unplug the SBE cable and put the rubber dummy plug on. Place the SBE for the deck crew to mount to the net. 
+5. Let the program run until you can see that the SBE is logging data every 3 seconds. Then click on “Done”. This will quit the SBE downloader and you can unplug the SBE cable and put the rubber dummy plug on. Place the SBE on the outside of the double sliding doors in the fish lab leading to the deck. This makes it easily accessible for the deck crew to mount to the net. 
 
 
 ![](images/sbe_downloader_V.png){width=50% fig-align="center"}
