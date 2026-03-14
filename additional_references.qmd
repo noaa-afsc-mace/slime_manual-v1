@@ -324,7 +324,7 @@ either “permanently” assigned to the ship or are in the augment
 -   **Lead Fisherman** - Leads fishing ops during the 2nd shift, second
     in charge of deck operations after the Bo’sun, not the same person
     as the Chief Bo’sun! With the Chief Bo’sun, oversees the Deck Crew.
-    Senior Survey Tech- Maintains the scientific seawater sampling
+-   **Senior Survey Tech** - Maintains the scientific seawater sampling
     system and other tools used during fishing operations. Survey techs
     also help during trawling and over the side operations. In charge of
     verifying cleanliness of wet lab at end of survey. Oversees the
@@ -349,7 +349,7 @@ scientific operations.
 -   **Flying Bridge**- Located outside, atop the bridge. Many of the
     officers want people to ask permission to spend time up here. Even
     if they don’t, it’s a good idea to tell someone you’re going up.
-    Bridge- This is the uppermost interior deck, immediately below the
+-   **Bridge**- This is the uppermost interior deck, immediately below the
     flying bridge. This is the place where the ship’s navigation,
     steering, and trawling operations take place. Nobody calls the
     bridge the 03 deck, even though that seems like it makes sense. You
@@ -377,9 +377,9 @@ scientific operations.
 -   **Hero Deck aka Side Sampling Station or Ops Deck**- located outside
     on the starboard side of the Chem Lab, this is where “side ops” are
     done. When we lower something that isn’t a trawl over the side of
-    the ship, it goes in the water here. 2 deck- The deck below the main
-    deck where crew staterooms, laundry, the gyms, and the engine room
-    are all located.
+    the ship, it goes in the water here. 
+-   **2 deck**- The deck below the main deck where crew staterooms, laundry,
+    the gyms, and the engine room are all located.
 -   **Forward gym**- small gym where treadmill, some weights, and rowing
     machine are located.
 -   **Aft gym- aka iron gym**- shares space with the wire room where the
@@ -417,7 +417,7 @@ scientific operations.
 -   **“This is a drill, this is a drill”** - Clearly, this is a drill,
     but what kind of drill?!? If you listen(ed) during the welcome
     aboard briefing, you’ll know that there are three kinds of drills;
-    Ffire, Spill, MOB, Abandon Ship.
+    Fire, Spill, MOB, Abandon Ship.
 -   **“Dog all doors/dogs”**- This is referring to the metal latches on
     the inside of the doors that lead out to weather decks. They keep
     the doors closed and make it so the watertight seals function.
@@ -435,7 +435,7 @@ scientific operations.
 -   **PNE** - “Poly Nor’Eastern” net used for fishing on bottom. Is
     smaller than the midwater net and has roller gear on the footrope.
 -   **83-112**- A second kind of bottom- trawl net with roller gear.
-    Methot- Square-frame net designed to sample krill and other large
+-   **Methot**- Square-frame net designed to sample krill and other large
     zooplankton. Deployed via the trawl ramp but uses a different winch.
 -   **Centerboard**- Extends
 -   **Transducers aka ‘ducers or echosounders**- 18, 38, 70, 120, 200,
