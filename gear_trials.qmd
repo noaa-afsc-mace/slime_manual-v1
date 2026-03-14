@@ -37,9 +37,9 @@ Prepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes
 
 ## Length Boards {#length-boards}
 If lengths are not measuring correctly you may need to [re-calibrate](other manuals/Calibrating Ichthystick.pdf){target="_blank"} the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration):
-* Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
-* The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
-* The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
+  * Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
+  * The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
+  * The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
 
 ## Weighing Scales {#marel-scales}
 Locate the scale calibration weight sets in the Chem Lab floor cabinet aft of the computers and complete a calibration followed by a calibration test. 
