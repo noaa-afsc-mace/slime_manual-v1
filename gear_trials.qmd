@@ -56,7 +56,7 @@ A scale calibration is performed by:
   * When the calibration is complete, the message “Fit nn” appears.
   *	Values above 25 indicate a poor calibration; repeat calibration if needed.
   
-After a calibration has been completed a calibration test should be conducted at the start of each field season. The test weights for the calibration test should remain stored in a dry secure location after use. In short, the calibration test is the placement of a full range of weights on the scale and recording the values. The scale calibration test sheet [scale calibration test sheet]({{< meta params.scale_cal_test_url >}}){target="_blank"} has a tab for each scale and provides a list of the weights to be tested. The results from each scale should be documented on its tab along with the date of the test.
+After a calibration has been completed a calibration test should be conducted at the start of each field season. The test weights for the calibration test should remain stored in a dry secure location after use. In short, the calibration test is the placement of a full range of weights on the scale and recording the values. The [scale calibration test sheet]({{< meta params.scale_cal_test_url >}}){target="_blank"} has a tab for each scale and provides a list of the weights to be tested. The results from each scale should be documented on its tab along with the date of the test.
 
 
 ## Load Cells {#load-cells}
