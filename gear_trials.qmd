@@ -37,9 +37,9 @@ Prepare Otolith supplies: Affix enough barcode labels to vials to fill 2-3 boxes
 
 ## Length Boards {#length-boards}
 If lengths are not measuring correctly you may need to [re-calibrate](other manuals/Calibrating Ichthystick.pdf){target="_blank"} the fish length boards (caution, the ruler inlayed on the length board is not a precise measuring tool and not used for calibration):
-* Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
-* The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
-* The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
+  * Place the magnet over the clear plexiglass plate right above the green led light. The light should turn red and then the length board should switch to calibration mode.
+  * The screen on the length board will display calibration mode and it will instruct you to place the magnet at 0 cm of the metric ruler (This should be up against the vertical barrier between the plexiglass covered control panel and the inlayed ruler). 
+  * The screen will then instruct you to place the magnet at 75 cm of the metric ruler (not the ruler inlayed). The 75 cm mark is noted (in permanent ink) on each fish board. The calibration mode will then finish and let you know when calibration is complete.
 
 ## Weighing Scales {#marel-scales}
 Locate the scale calibration weight sets in the Chem Lab floor cabinet aft of the computers and complete a calibration followed by a calibration test. 
@@ -56,7 +56,7 @@ A scale calibration is performed by:
   * When the calibration is complete, the message “Fit nn” appears.
   *	Values above 25 indicate a poor calibration; repeat calibration if needed.
   
-After a calibration has been completed a calibration test should be conducted at the start of each field season. The test weights for the calibration test should remain stored in a dry secure location after use. In short, the calibration test is the placement of a full range of weights on the scale and recording the values. The scale calibration test sheet [scale calibration test sheet]({{< meta params.scale_cal_test_url >}}){target="_blank"} has a tab for each scale and provides a list of the weights to be tested. The results from each scale should be documented on its tab along with the date of the test.
+After a calibration has been completed a calibration test should be conducted at the start of each field season. The test weights for the calibration test should remain stored in a dry secure location after use. In short, the calibration test is the placement of a full range of weights on the scale and recording the values. The [scale calibration test sheet]({{< meta params.scale_cal_test_url >}}){target="_blank"} has a tab for each scale and provides a list of the weights to be tested. The results from each scale should be documented on its tab along with the date of the test.
 
 
 ## Load Cells {#load-cells}

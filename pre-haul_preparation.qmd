@@ -44,7 +44,7 @@ Trawls and Methots will be equipped with an SBE, commonly referred to as the  �
 
 
 ## CamTrawl {#camtrawl}
-Ensure a [charged CamTrawl battery](other manuals/Charging camTrawl Batteries.pdf){target="_blank"} is placed in the CamTrawl, connected, closed, and secured with a “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net The deck crew is responsible for securing the CamTrawl to the net. For more information see the latest CamTrawl [quick guide](other manuals/Camtrawl quick guide Feb 2024.pdf){target="_blank"}. 
+Ensure a [charged CamTrawl battery](other manuals/Charging camTrawl Batteries.pdf){target="_blank"} is placed in the CamTrawl, connected, closed, and secured with a “spaghetti” locking cord. Verify that the green light is slowly blinking on the dummy plug before deck crew attaches the assembly to the net. Floats should be upright or to the port side if laying down on top of the net. The deck crew is responsible for securing the CamTrawl to the net. For more information see the latest CamTrawl [quick guide](other manuals/Camtrawl quick guide Feb 2024.pdf){target="_blank"}. 
 
 ![](images/camtrawl.jpg){width=100% fig-align="center"}
 
